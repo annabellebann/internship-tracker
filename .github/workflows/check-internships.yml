@@ -1,0 +1,33 @@
+name: Check internship postings
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # every day at 13:00 UTC (~9am ET / 6am PT)
+  workflow_dispatch: {}     # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update internship tracker [automated]"
+          file_pattern: "state.json CHANGELOG.md"

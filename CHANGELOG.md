@@ -254,3 +254,17 @@ Every time the daily check finds new "intern"-related text on a company's career
 - What housing arrangements can interns access?
 - Interns will have access to Great Wolf’s housing portal. This portal will give interns options to find short-term housing near their lodge. They will also have opportunity to match with other interns that are looking for roommates.
 - All interns will be responsible for their own housing and transportation to the lodge.
+
+## 2026-07-09 16:00 UTC
+
+**Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
+- Orlando, FL - International
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - Sustainability Impact Intern - September 2026 - (F/M)
+- GINORI 1735 - Customer Service Intern
+
+**Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
+- Internship Program, Sales, 2027 – Santiago, Chile
+- We are looking for passionate students to join our Sales Internship Program at Mastercard in Santiago, Chile. This is a unique opportunity to gain hands-on experience, develop your skills, and contribute to impactful projects in a global company. Join us and be part of something bigger!
+- Save job Internship Program, Sales, 2027 – Santiago, Chile R-282264 to job cart

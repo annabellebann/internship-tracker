@@ -268,3 +268,19 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Internship Program, Sales, 2027 – Santiago, Chile
 - We are looking for passionate students to join our Sales Internship Program at Mastercard in Santiago, Chile. This is a unique opportunity to gain hands-on experience, develop your skills, and contribute to impactful projects in a global company. Join us and be part of something bigger!
 - Save job Internship Program, Sales, 2027 – Santiago, Chile R-282264 to job cart
+
+## 2026-07-10 15:35 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Finance Intern
+- Concierge Intern
+
+**Levain Bakery** — https://levainbakery.com/pages/careers
+- We know that when we take care of our people internally, they will be able to take care of our customers. We don’t take it for granted that our customers have many options, and their support for Levain is something we work hard to earn each day.
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BOTTEGA VENETA Women & Men's Shoes Collection Merchandising Intern (Curricular Internship)
+
+**Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
+- Associate Consultant Intern, 2027 – Buenos Aires, Argentina
+- Save job Associate Consultant Intern, 2027 – Buenos Aires, Argentina R-282260 to job cart

@@ -284,3 +284,16 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
 - Associate Consultant Intern, 2027 – Buenos Aires, Argentina
 - Save job Associate Consultant Intern, 2027 – Buenos Aires, Argentina R-282260 to job cart
+
+## 2026-07-11 14:25 UTC
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - S&OP Transformation & Business Analysis Intern - September 2026 - (F/H)
+
+**Eater (Vox Media)** — https://www.voxmedia.com/pages/jobs
+- Senior Manager, Brand Partnerships UK & International
+
+**Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
+- Associate Consultant Intern, 2027 – Santiago, Chile
+- We are looking for passionate and talented students to join our team as Associate Consultant Interns. This role offers the opportunity to collaborate with small teams, engage with clients, and gain exposure to various industries while driving impactful decisions through data-driven insights.
+- Save job Associate Consultant Intern, 2027 – Santiago, Chile R-282263 to job cart

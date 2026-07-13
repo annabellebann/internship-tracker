@@ -302,3 +302,11 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Four Seasons** — https://careers.fourseasons.com/us/en/internships
 - Kitchen Intern - Four Seasons Resort Mallorca at Formentor
+
+## 2026-07-13 15:46 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Spa Receptionist Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Finance Intern – The Hoxton, Amsterdam

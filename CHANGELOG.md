@@ -337,3 +337,13 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Associate Consultant Intern, 2027 – Santiago, Chile
 - We are looking for passionate and talented students to join our team as Associate Consultant Interns. This role offers the opportunity to collaborate with small teams, engage with clients, and gain exposure to various industries while driving impactful decisions through data-driven insights.
 - Save job Associate Consultant Intern, 2027 – Santiago, Chile R-282263 to job cart
+
+## 2026-07-16 15:03 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Rooms Intern
+- Concierge Intern
+- People & Culture Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- KERING Accounting Intern

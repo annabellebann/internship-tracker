@@ -347,3 +347,24 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - KERING Accounting Intern
+
+## 2026-07-17 14:45 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Front Office Intern (6 Months Fixed Term)
+- Sales & Marketing Intern
+- F&B Service Intern
+- Reservations Intern
+- Finance Intern
+- Sales & Catering Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Intern Development
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- KERING Data Analyst Intern
+- BOTTEGA VENETA Visual Merchandising Intern
+- BOUCHERON - Stagiaire - Assistant(e) presse, influence et célébrités international F/H/X
+
+**Eater (Vox Media)** — https://www.voxmedia.com/pages/jobs
+- Senior Manager, Brand Partnerships UK & International

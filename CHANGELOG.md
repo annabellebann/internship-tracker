@@ -368,3 +368,23 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Eater (Vox Media)** — https://www.voxmedia.com/pages/jobs
 - Senior Manager, Brand Partnerships UK & International
+
+## 2026-07-18 14:24 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Intern
+- 房务部实习生 Rooms Intern
+- 餐饮部实习生 F&B Intern
+- Spa Receptionist Intern
+- People & Culture Intern
+
+**Levain Bakery** — https://levainbakery.com/pages/careers
+- We know that when we take care of our people internally, they will be able to take care of our customers. We don’t take it for granted that our customers have many options, and their support for Levain is something we work hard to earn each day.
+
+**Dandelion Chocolate** — https://www.dandelionchocolate.com/pages/jobs
+- We frequently bring team members to national and international chocolate conferences like FCIA or Chocoa.
+
+**Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
+- Internship Program, Sales, 2027 – Santiago, Chile
+- We are looking for passionate students to join our Sales Internship Program at Mastercard in Santiago, Chile. This is a unique opportunity to gain hands-on experience, develop your skills, and contribute to impactful projects in a global company. Join us and be part of something bigger!
+- Save job Internship Program, Sales, 2027 – Santiago, Chile R-282264 to job cart

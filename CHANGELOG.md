@@ -388,3 +388,20 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Internship Program, Sales, 2027 – Santiago, Chile
 - We are looking for passionate students to join our Sales Internship Program at Mastercard in Santiago, Chile. This is a unique opportunity to gain hands-on experience, develop your skills, and contribute to impactful projects in a global company. Join us and be part of something bigger!
 - Save job Internship Program, Sales, 2027 – Santiago, Chile R-282264 to job cart
+
+## 2026-07-19 14:27 UTC
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- Internships
+- Choosing an internship at Travelers will allow you to make immediate – and lasting – contributions through meaningful real-world experiences that help people manage risk, recover from losses and secure their future. As an intern, you’ll have the opportunity to:
+- Meet other interns from across the country.
+- Have the opportunity to apply and interview for return internships and full-time positions with Travelers.
+- From internships to leadership development programs to ongoing training, learning and growth are yours for the taking. Where you start at Travelers is just the beginning.
+- Large group of Travelers interns pose on an outdoor staircase between office buildings for a group photo, with “Intern Symposium” and the Travelers umbrella logo at the top and “Travelers Careers” branding at the bottom.
+- Wondering where an internship at Travelers can take you? ⭐
+- #TeamTravelers #TRVIntern
+
+**Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
+- Associate Consultant Intern, 2027 – Santiago, Chile
+- We are looking for passionate and talented students to join our team as Associate Consultant Interns. This role offers the opportunity to collaborate with small teams, engage with clients, and gain exposure to various industries while driving impactful decisions through data-driven insights.
+- Save job Associate Consultant Intern, 2027 – Santiago, Chile R-282263 to job cart

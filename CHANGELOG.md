@@ -405,3 +405,23 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Associate Consultant Intern, 2027 – Santiago, Chile
 - We are looking for passionate and talented students to join our team as Associate Consultant Interns. This role offers the opportunity to collaborate with small teams, engage with clients, and gain exposure to various industries while driving impactful decisions through data-driven insights.
 - Save job Associate Consultant Intern, 2027 – Santiago, Chile R-282263 to job cart
+
+## 2026-07-20 15:14 UTC
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Intern Development
+- People & Culture Intern
+- Finance Intern – The Hoxton, Amsterdam
+- Front Office Intern – The Hoxton, Amsterdam
+- Housekeeping Supervisor Intern
+- Intern, Finance and People & Culture (F/M/X)
+- Intern, Loyalty and Guest Experience, (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from August-September 2026 for students and candidates from EU
+- People & Culture internship
+- Guest Services & Quality Intern
+- Front Office Intern – The Hoxton, Lloyd
+- Food & Beverage Intern – Lotti’s
+- Finance Intern
+- Lobby Ambassador Intern
+- Culinary Intern

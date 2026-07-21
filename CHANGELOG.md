@@ -425,3 +425,18 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Finance Intern
 - Lobby Ambassador Intern
 - Culinary Intern
+
+## 2026-07-21 15:06 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Guest Service Intern 宾客服务实习生
+- Culinary Intern
+
+**Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
+- Intern, Marketing
+- Intern, Retail Operations
+
+**Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
+- Internship Program, Sales, 2027 – Santiago, Chile
+- We are looking for passionate students to join our Sales Internship Program at Mastercard in Santiago, Chile. This is a unique opportunity to gain hands-on experience, develop your skills, and contribute to impactful projects in a global company. Join us and be part of something bigger!
+- Save job Internship Program, Sales, 2027 – Santiago, Chile R-282264 to job cart

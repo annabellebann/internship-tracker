@@ -440,3 +440,19 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Internship Program, Sales, 2027 – Santiago, Chile
 - We are looking for passionate students to join our Sales Internship Program at Mastercard in Santiago, Chile. This is a unique opportunity to gain hands-on experience, develop your skills, and contribute to impactful projects in a global company. Join us and be part of something bigger!
 - Save job Internship Program, Sales, 2027 – Santiago, Chile R-282264 to job cart
+
+## 2026-07-22 15:07 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Core Intern
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern - Learning & Development
+- F&B Reception Intern
+- Spa Intern
+- Concierge Intern
+
+**Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
+- Associate Consultant Intern, 2027 – Santiago, Chile
+- We are looking for passionate and talented students to join our team as Associate Consultant Interns. This role offers the opportunity to collaborate with small teams, engage with clients, and gain exposure to various industries while driving impactful decisions through data-driven insights.
+- Save job Associate Consultant Intern, 2027 – Santiago, Chile R-282263 to job cart

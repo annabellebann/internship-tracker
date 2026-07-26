@@ -504,3 +504,30 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Four Seasons** — https://careers.fourseasons.com/us/en/internships
 - Guestroom Attendant - J1 Intern
+
+## 2026-07-26 14:31 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Core Intern
+- People & Culture Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- INTERNSHIP – Assistant F&B Director
+- Intern Human Resources
+- People & Culture Intern
+- Front Office Intern – The Hoxton, Amsterdam
+- Housekeeping Supervisor Intern
+- Intern, Finance and People & Culture (F/M/X)
+- Intern, Loyalty and Guest Experience, (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from August-September 2026 for students and candidates from EU
+- People & Culture internship
+- Guest Services & Quality Intern
+- Front Office Intern – The Hoxton, Lloyd
+- Food & Beverage Intern – Lotti’s
+- Culinary Intern
+
+**Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
+- Internship Program, Sales, 2027 – Santiago, Chile
+- We are looking for passionate students to join our Sales Internship Program at Mastercard in Santiago, Chile. This is a unique opportunity to gain hands-on experience, develop your skills, and contribute to impactful projects in a global company. Join us and be part of something bigger!
+- Save job Internship Program, Sales, 2027 – Santiago, Chile R-282264 to job cart

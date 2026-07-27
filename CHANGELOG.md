@@ -531,3 +531,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Internship Program, Sales, 2027 – Santiago, Chile
 - We are looking for passionate students to join our Sales Internship Program at Mastercard in Santiago, Chile. This is a unique opportunity to gain hands-on experience, develop your skills, and contribute to impactful projects in a global company. Join us and be part of something bigger!
 - Save job Internship Program, Sales, 2027 – Santiago, Chile R-282264 to job cart
+
+## 2026-07-27 15:44 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Front Desk Intern

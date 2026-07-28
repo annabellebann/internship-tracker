@@ -536,3 +536,17 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Four Seasons** — https://careers.fourseasons.com/us/en/internships
 - Front Desk Intern
+
+## 2026-07-28 15:22 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Culinary Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA – EMEA Client Engagement Data Analyst Intern (F/M)
+
+**Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
+- Join our award-winning student internship program or as an employee in our Launch program. You'll work on real projects, build skills fast, and make an impact from day one.
+- Internship program
+- Our full-time internships let you work alongside experienced professionals, contribute to meaningful projects, and gain experience at a global technology company.
+- Explore our internship program

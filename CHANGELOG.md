@@ -550,3 +550,16 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Internship program
 - Our full-time internships let you work alongside experienced professionals, contribute to meaningful projects, and gain experience at a global technology company.
 - Explore our internship program
+
+## 2026-07-29 15:11 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Guest Service Intern 宾客服务实习生
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Development Intern
+- Residences Intern Concierge - Omani National
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- SAINT LAURENT Responsabile Pianificazione della Produzione Interna - calzature
+- QEELIN_International CRM Solution Manager

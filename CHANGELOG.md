@@ -563,3 +563,23 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - SAINT LAURENT Responsabile Pianificazione della Produzione Interna - calzature
 - QEELIN_International CRM Solution Manager
+
+## 2026-07-30 15:13 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- 餐饮部实习生 F&B Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- POMELLATO PR Intern
+
+**Southwest Airlines** — https://careers.southwestair.com/us/en/campus-reach
+- 2027 Internship snapshot
+- Our internship opportunities mirror the Southwest AirlinesTeam's various workplace flexibility models. Some internships are fully onsite and others are virtual or hybrid models. Please read each job description to understand the Team's expectations.
+- Internship application and program dates are subject to change base on business needs. We encourage you to check back regularly for updates.
+- Spring 2027 Internship Program Details
+- Internship Application dates: September 1 – September 15, 2026
+- Internship Dates: January 26 – April 23, 2027
+- Summer 2027 Internship Program Details
+- Internship Application dates: October 1 – October 7, 2026
+- Internship Dates: May 18 – August 8, 2027
+- For example, a May 2027 graduation date isn't eligible for a post-graduation internship in the summer of 2027. However, a May 2027 undergrad completion with a May 2028 Master's program completion, would be eligible.

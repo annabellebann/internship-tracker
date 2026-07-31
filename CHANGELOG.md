@@ -583,3 +583,10 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Internship Application dates: October 1 – October 7, 2026
 - Internship Dates: May 18 – August 8, 2027
 - For example, a May 2027 graduation date isn't eligible for a post-graduation internship in the summer of 2027. However, a May 2027 undergrad completion with a May 2028 Master's program completion, would be eligible.
+
+## 2026-07-31 15:21 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- People & Culture Intern
+- Purchasing Intern - Four Seasons Mallorca at Formentor
+- Stagiaire / Intern

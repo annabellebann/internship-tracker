@@ -590,3 +590,28 @@ Every time the daily check finds new "intern"-related text on a company's career
 - People & Culture Intern
 - Purchasing Intern - Four Seasons Mallorca at Formentor
 - Stagiaire / Intern
+
+## 2026-08-01 14:29 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Reservations Intern
+- Sales & Marketing Intern
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Practicante de Comunicación Interna - Belmond Perú
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Internship Trainee - F&B
+
+**Levain Bakery** — https://levainbakery.com/pages/careers
+- We know that when we take care of our people internally, they will be able to take care of our customers. We don’t take it for granted that our customers have many options, and their support for Levain is something we work hard to earn each day.
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- Internships
+- Choosing an internship at Travelers will allow you to make immediate – and lasting – contributions through meaningful real-world experiences that help people manage risk, recover from losses and secure their future. As an intern, you’ll have the opportunity to:
+- Meet other interns from across the country.
+- Have the opportunity to apply and interview for return internships and full-time positions with Travelers.
+- From internships to leadership development programs to ongoing training, learning and growth are yours for the taking. Where you start at Travelers is just the beginning.
+- Large group of Travelers interns pose on an outdoor staircase between office buildings for a group photo, with “Intern Symposium” and the Travelers umbrella logo at the top and “Travelers Careers” branding at the bottom.
+- Wondering where an internship at Travelers can take you? ⭐
+- #TeamTravelers #TRVIntern

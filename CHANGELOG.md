@@ -615,3 +615,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Large group of Travelers interns pose on an outdoor staircase between office buildings for a group photo, with “Intern Symposium” and the Travelers umbrella logo at the top and “Travelers Careers” branding at the bottom.
 - Wondering where an internship at Travelers can take you? ⭐
 - #TeamTravelers #TRVIntern
+
+## 2026-08-02 14:32 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Intern

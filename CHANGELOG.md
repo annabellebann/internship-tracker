@@ -620,3 +620,25 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Four Seasons** — https://careers.fourseasons.com/us/en/internships
 - Intern
+
+## 2026-08-03 15:46 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Sales & Marketing Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Finance Intern
+- INTERNSHIP – Assistant F&B Director
+- Intern Human Resources
+- People & Culture Intern
+- Front Office Intern – The Hoxton, Amsterdam
+- Housekeeping Supervisor Intern
+- Intern, Finance and People & Culture (F/M/X)
+- Intern, Loyalty and Guest Experience, (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from August-September 2026 for students and candidates from EU
+- People & Culture internship
+- Guest Services & Quality Intern
+- Front Office Intern – The Hoxton, Lloyd
+- Food & Beverage Intern – Lotti’s
+- Culinary Intern

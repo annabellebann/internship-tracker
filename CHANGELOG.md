@@ -642,3 +642,17 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Front Office Intern – The Hoxton, Lloyd
 - Food & Beverage Intern – Lotti’s
 - Culinary Intern
+
+## 2026-08-04 15:27 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Intern
+- Finance Intern - Four Seasons Resort Mallorca at Formentor
+- Kitchen Intern - Four Seasons Resort Mallorca at Formentor
+
+**Levain Bakery** — https://levainbakery.com/pages/careers
+- We know that when we take care of our people internally, they will be able to take care of our customers. We don’t take it for granted that our customers have many options, and their support for Levain is something we work hard to earn each day.
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- SAINT LAURENT Client Relationship Management Intern NYC
+- BOTTEGA VENETA Operations Intern

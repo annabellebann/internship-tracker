@@ -656,3 +656,11 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - SAINT LAURENT Client Relationship Management Intern NYC
 - BOTTEGA VENETA Operations Intern
+
+## 2026-08-05 15:16 UTC
+
+**Dandelion Chocolate** — https://www.dandelionchocolate.com/pages/jobs
+- We frequently bring team members to national and international chocolate conferences like FCIA or Chocoa.
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- KERING EYEWEAR Product Marketing Intern

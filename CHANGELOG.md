@@ -664,3 +664,35 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - KERING EYEWEAR Product Marketing Intern
+
+## 2026-08-07 14:15 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Reservations Intern
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- RB&E Overseas Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Finance Intern
+- INTERNSHIP – Assistant F&B Director
+- Intern Human Resources
+- People & Culture Intern
+- Front Office Intern – The Hoxton, Amsterdam
+- Housekeeping Supervisor Intern
+- Intern, Finance and People & Culture (F/M/X)
+- Intern, Loyalty and Guest Experience, (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from August-September 2026 for students and candidates from EU
+- People & Culture internship
+- Guest Services & Quality Intern
+- Front Office Intern – The Hoxton, Lloyd
+- Food & Beverage Intern – Lotti’s
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- As we take a look back at #NationalInternDay, we’re celebrating the impact our interns make at Travelers. All summer, they’ve taken on new challenges, shared fresh ideas and brought real energy to our teams, customers and communities.
+- 🔗 Discover what it’s like to intern at Travelers: https://travl.rs/4wLeoPD.
+- #TeamTravelers #TRVIntern #EmergingTalent
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- DODO Financial Controlling Curricular Internship

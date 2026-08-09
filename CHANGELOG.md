@@ -696,3 +696,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - DODO Financial Controlling Curricular Internship
+
+## 2026-08-09 13:50 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Finance Intern - Four Seasons Resort Mallorca at Formentor

@@ -722,3 +722,11 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - BALENCIAGA Fall 2026 Wholesale Intern | NYC
+
+## 2026-08-11 14:23 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Finance Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- People & Culture Intern – The Hoxton, Lloyd

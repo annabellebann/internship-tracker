@@ -730,3 +730,16 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
 - People & Culture Intern – The Hoxton, Lloyd
+
+## 2026-08-12 14:24 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.
+- Spa Receptionist Intern
+- Reservations Intern
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Human Resources Intern | Villa Sant'Andrea, a Belmond Hotel
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internal Control Manager

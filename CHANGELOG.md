@@ -743,3 +743,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
 - Internal Control Manager
+
+## 2026-08-13 14:25 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Purchasing Intern - Four Seasons Mallorca at Formentor

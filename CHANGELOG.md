@@ -748,3 +748,33 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Four Seasons** — https://careers.fourseasons.com/us/en/internships
 - Purchasing Intern - Four Seasons Mallorca at Formentor
+
+## 2026-08-14 14:19 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern, Restaurants, Bars & Experiences – Global Concepts & Innovation
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Culinary Intern
+- Lobby Ambassador Intern
+- Internal Control Manager
+- People & Culture Intern – The Hoxton, Lloyd
+- Finance Intern
+- INTERNSHIP – Assistant F&B Director
+- Intern Human Resources
+- People & Culture Intern
+- Housekeeping Supervisor Intern
+- Intern, Finance and People & Culture (F/M/X)
+- Intern, Loyalty and Guest Experience, (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from August-September 2026 for students and candidates from EU
+- People & Culture internship
+- Guest Services & Quality Intern
+- Front Office Intern – The Hoxton, Lloyd
+- Food & Beverage Intern – Lotti’s
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- KERING After Sales Intern

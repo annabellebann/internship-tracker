@@ -778,3 +778,9 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - KERING After Sales Intern
+
+## 2026-08-15 13:31 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Purchasing Intern - Four Seasons Mallorca at Formentor
+- Finance Intern - Four Seasons Resort Mallorca at Formentor

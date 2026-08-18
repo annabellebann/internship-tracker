@@ -816,3 +816,17 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - KERING EYEWEAR Product Marketing Intern
+
+## 2026-08-18 13:44 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- People & Culture Intern
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern - Learning & Development
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BOUCHERON SCM Intern
+
+**Southwest Airlines** — https://careers.southwestair.com/us/en/campus-reach
+- Internship Application dates: September 1 – September 7, 2026

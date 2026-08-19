@@ -830,3 +830,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Southwest Airlines** — https://careers.southwestair.com/us/en/campus-reach
 - Internship Application dates: September 1 – September 7, 2026
+
+## 2026-08-19 13:47 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern, Concierge

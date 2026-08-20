@@ -835,3 +835,31 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Mandarin Oriental** — https://careers.mandarinoriental.com/
 - Intern, Concierge
+
+## 2026-08-20 13:47 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Mountain Club Intern
+- Reservations Intern
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern, Learning and Development
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Culinary Intern
+- Lobby Ambassador Intern
+- Internal Control Manager
+- People & Culture Intern – The Hoxton, Lloyd
+- Finance Intern
+- INTERNSHIP – Assistant F&B Director
+- Intern Human Resources
+- People & Culture Intern
+- Housekeeping Supervisor Intern
+- Intern, Finance and People & Culture (F/M/X)
+- Intern, Loyalty and Guest Experience, (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from August-September 2026 for students and candidates from EU
+- People & Culture internship
+- Guest Services & Quality Intern
+- Front Office Intern – The Hoxton, Lloyd
+- Food & Beverage Intern – Lotti’s

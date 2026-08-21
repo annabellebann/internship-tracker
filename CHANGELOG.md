@@ -863,3 +863,9 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Guest Services & Quality Intern
 - Front Office Intern – The Hoxton, Lloyd
 - Food & Beverage Intern – Lotti’s
+
+## 2026-08-21 13:46 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern, Regional Operations
+- Intern, Restaurants, Bars & Experiences

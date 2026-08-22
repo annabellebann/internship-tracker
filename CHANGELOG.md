@@ -869,3 +869,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Mandarin Oriental** — https://careers.mandarinoriental.com/
 - Intern, Regional Operations
 - Intern, Restaurants, Bars & Experiences
+
+## 2026-08-22 13:33 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.

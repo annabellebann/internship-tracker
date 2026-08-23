@@ -874,3 +874,18 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Four Seasons** — https://careers.fourseasons.com/us/en/internships
 - We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.
+
+## 2026-08-23 13:33 UTC
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- Internships
+- Choosing an internship at Travelers will allow you to make immediate – and lasting – contributions through meaningful real-world experiences that help people manage risk, recover from losses and secure their future. As an intern, you’ll have the opportunity to:
+- Meet other interns from across the country.
+- Have the opportunity to apply and interview for return internships and full-time positions with Travelers.
+- From internships to leadership development programs to ongoing training, learning and growth are yours for the taking. Where you start at Travelers is just the beginning.
+- As we take a look back at #NationalInternDay, we’re celebrating the impact our interns make at Travelers. All summer, they’ve taken on new challenges, shared fresh ideas and brought real energy to our teams, customers and communities.
+- 🔗 Discover what it’s like to intern at Travelers: https://travl.rs/4wLeoPD.
+- #TeamTravelers #TRVIntern #EmergingTalent
+- Large group of Travelers interns pose on an outdoor staircase between office buildings for a group photo, with “Intern Symposium” and the Travelers umbrella logo at the top and “Travelers Careers” branding at the bottom.
+- Wondering where an internship at Travelers can take you? ⭐
+- #TeamTravelers #TRVIntern

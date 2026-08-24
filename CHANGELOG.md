@@ -889,3 +889,11 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Large group of Travelers interns pose on an outdoor staircase between office buildings for a group photo, with “Intern Symposium” and the Travelers umbrella logo at the top and “Travelers Careers” branding at the bottom.
 - Wondering where an internship at Travelers can take you? ⭐
 - #TeamTravelers #TRVIntern
+
+## 2026-08-24 13:52 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern, Restaurants, Bars & Experiences – Global Concepts & Innovation
+
+**Fairmont (Accor)** — https://careers.accor.com/global/en/fairmont
+- Brand & Marketing Intern

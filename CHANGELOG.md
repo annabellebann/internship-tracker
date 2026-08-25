@@ -897,3 +897,20 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Fairmont (Accor)** — https://careers.accor.com/global/en/fairmont
 - Brand & Marketing Intern
+
+## 2026-08-25 13:50 UTC
+
+**Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
+- Orlando, FL - International
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- DODO Go-To-Market Internship
+
+**Southwest Airlines** — https://careers.southwestair.com/us/en/campus-reach
+- It's that time of year! We're accepting applications for 2027 Spring and Summer Internships soon.
+- Our Campus Reach Team is hosting two identical information sessions on August 31 to share more about the internship program, expectations, and application tips. You're welcome to register for and attend whichever session works best for your schedule.
+- Revenue Management Intern
+- Spring 2027 Internship Program Details (Technology only)
+- Spring Internship opportunities are available only within the Technology Department
+- Summer Internship opportunities will be across multiple departments
+- Southwest Business Intern

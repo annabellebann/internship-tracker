@@ -914,3 +914,13 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Spring Internship opportunities are available only within the Technology Department
 - Summer Internship opportunities will be across multiple departments
 - Southwest Business Intern
+
+## 2026-08-26 13:57 UTC
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- Our annual fireside chat was a standout moment this summer for our intern cohort. Travelers Chairman and CEO Alan Schnitzer joined interns to discuss practical tips for building a career at Travelers, why we put people and place first and the critical role of innovation in a rapidly changing world.
+- #TeamTravelers #TRVIntern #Internships #Mentorship #CareerDevelopment
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- GINORI 1735 - Production Process Analysis Intern
+- BALENCIAGA - Demand Planning Intern - September 2026 (F/H)

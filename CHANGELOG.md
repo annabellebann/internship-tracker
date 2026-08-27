@@ -924,3 +924,11 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - GINORI 1735 - Production Process Analysis Intern
 - BALENCIAGA - Demand Planning Intern - September 2026 (F/H)
+
+## 2026-08-27 22:50 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Reservations Intern
+
+**Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
+- Join our award-winning internship program or as an employee

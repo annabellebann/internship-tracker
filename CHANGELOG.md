@@ -932,3 +932,36 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Mastercard** — https://careers.mastercard.com/us/en/student-opportunities
 - Join our award-winning internship program or as an employee
+
+## 2026-08-28 22:57 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Intern, Group Sales
+- We are recruiting a Group Sales Intern to support group business initiatives for Four Seasons hotels and resorts. Assist with account support, event preparation, and sales enablement. Ideal for students pursuing a degree in Business, Sales, Marketing, Communications, Hospitality, or related fields.
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- P&C Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Internship Application (f/m/x)
+- Culinary Intern
+- Lobby Ambassador Intern
+- People & Culture Intern – The Hoxton, Lloyd
+- Finance Intern
+- INTERNSHIP – Assistant F&B Director
+- Intern Human Resources
+- People & Culture Intern
+- Housekeeping Supervisor Intern
+- Intern, Finance and People & Culture (F/M/X)
+- Intern, Loyalty and Guest Experience, (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from August-September 2026 for students and candidates from EU
+- People & Culture internship
+- Guest Services & Quality Intern
+- Front Office Intern – The Hoxton, Lloyd
+- Food & Beverage Intern – Lotti’s
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- DODO Go-To-Market Curricular Internship
+- BOTTEGA VENETA EMEA Client Development Intern
+- GINORI 1735 - Design Intern

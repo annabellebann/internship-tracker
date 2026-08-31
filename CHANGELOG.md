@@ -985,3 +985,18 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Large group of Travelers interns pose on an outdoor staircase between office buildings for a group photo, with “Intern Symposium” and the Travelers umbrella logo at the top and “Travelers Careers” branding at the bottom.
 - Wondering where an internship at Travelers can take you? ⭐
 - #TeamTravelers #TRVIntern
+
+## 2026-08-31 19:27 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Food & Beverage: Operations & Administrative Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA – Intern- E-commerce Content Post Production - September 2026 (H/F)
+- BALENCIAGA – E-Commerce Copy & Language Service Intern – Septembre 2026 (F/H)
+
+**Southwest Airlines** — https://careers.southwestair.com/us/en/campus-reach
+- Housing Support: If you need help locating housing, we’ll provide a list of recommendations and connect you with other Interns in case you’d like to have a roommate.

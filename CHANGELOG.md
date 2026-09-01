@@ -1000,3 +1000,13 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Southwest Airlines** — https://careers.southwestair.com/us/en/campus-reach
 - Housing Support: If you need help locating housing, we’ll provide a list of recommendations and connect you with other Interns in case you’d like to have a roommate.
+
+## 2026-09-01 17:13 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Pastry Intern
+
+**Southwest Airlines** — https://careers.southwestair.com/us/en/campus-reach
+- Applications for our Spring 2027 Technology Internships are officially open!
+- Apply for a Spring Internship
+- Most of our internships are in-person at our Corporate Campus in Dallas, Texas. Internships in our Technology Department are fully virtual. Workplace requirements can be found in the job description for each role.

@@ -1010,3 +1010,17 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Applications for our Spring 2027 Technology Internships are officially open!
 - Apply for a Spring Internship
 - Most of our internships are in-person at our Corporate Campus in Dallas, Texas. Internships in our Technology Department are fully virtual. Workplace requirements can be found in the job description for each role.
+
+## 2026-09-02 17:02 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Intern, Group Sales
+- We are recruiting a Group Sales Intern to support group business initiatives for Four Seasons hotels and resorts. Assist with account support, event preparation, and sales enablement. Ideal for students pursuing a degree in Business, Sales, Marketing, Communications, Hospitality, or related fields.
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship – Food & Beverage
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from January 2027 for students and candidates from EU
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BOTTEGA VENETA Women & Men's Shoes Collection Merchandising Intern (Curricular Internship)
+- BOTTEGA VENETA Internship Inventory Controlling EMEA

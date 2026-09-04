@@ -1034,3 +1034,18 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - SAINT LAURENT Stage Contrôle Interne et Compliance (Décembre 2026) H/F
+
+## 2026-09-04 16:47 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Intern, Group Sales
+- We are recruiting a Group Sales Intern to support group business initiatives for Four Seasons hotels and resorts. Assist with account support, event preparation, and sales enablement. Ideal for students pursuing a degree in Business, Sales, Marketing, Communications, Hospitality, or related fields.
+- Reservations Intern
+- Pastry Intern
+- Guest Services Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Marketing Internship
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- POMELLATO Trade Marketing Intern

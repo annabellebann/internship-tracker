@@ -1049,3 +1049,9 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - POMELLATO Trade Marketing Intern
+
+## 2026-09-05 15:51 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Rooms Intern
+- We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.

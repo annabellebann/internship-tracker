@@ -1076,3 +1076,34 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Large group of Travelers interns pose on an outdoor staircase between office buildings for a group photo, with “Intern Symposium” and the Travelers umbrella logo at the top and “Travelers Careers” branding at the bottom.
 - Wondering where an internship at Travelers can take you? ⭐
 - #TeamTravelers #TRVIntern
+
+## 2026-09-07 18:09 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.
+
+**Fairmont (Accor)** — https://careers.accor.com/global/en/fairmont
+- Internship
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Guest Services & Quality Intern
+- People & Culture internship
+- Front Office Intern – The Hoxton, Lloyd
+- Housekeeping Supervisor Intern
+- People & Culture Intern
+- Intern Human Resources
+- INTERNSHIP – Assistant F&B Director
+- Finance Intern
+- Lobby Ambassador Intern
+- Internship Application (f/m/x)
+- Culinary Intern
+- Food & Beverage: Operations & Administrative Intern
+- Intern, Loyalty and Guest Experience, (F/M/X)
+- Marketing Internship
+- Internship – Food & Beverage
+- Intern, Finance and People & Culture (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from January 2027 for students and candidates from EU
+
+**David Yurman** — https://www.davidyurman.com/careers.html
+- SUMMER INTERNSHIP PROGRAM

@@ -1107,3 +1107,13 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **David Yurman** — https://www.davidyurman.com/careers.html
 - SUMMER INTERNSHIP PROGRAM
+
+## 2026-09-08 17:07 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Intern, Group Sales
+- We are recruiting a Group Sales Intern to support group business initiatives for Four Seasons hotels and resorts. Assist with account support, event preparation, and sales enablement. Ideal for students pursuing a degree in Business, Sales, Marketing, Communications, Hospitality, or related fields.
+- Purchasing Intern - Four Seasons Mallorca at Formentor
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Payroll Clerk Internship - Splendido, a Belmond Hotel Portofino

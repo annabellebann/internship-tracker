@@ -1117,3 +1117,14 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Belmond (LVMH)** — https://careers.belmond.com/jobs
 - Payroll Clerk Internship - Splendido, a Belmond Hotel Portofino
+
+## 2026-09-09 17:05 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - Global Retail Operations Intern - October 2026 (F/M)
+- SAINT LAURENT Information Technology Application Internship
+- KERING EYEWEAR HR Intern
+- BALENCIAGA - Visual Merchandising EMEA Intern - October 2026

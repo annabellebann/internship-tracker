@@ -1128,3 +1128,14 @@ Every time the daily check finds new "intern"-related text on a company's career
 - SAINT LAURENT Information Technology Application Internship
 - KERING EYEWEAR HR Intern
 - BALENCIAGA - Visual Merchandising EMEA Intern - October 2026
+
+## 2026-09-10 16:57 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Purchasing Intern - Four Seasons Mallorca at Formentor
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Reservations Intern
+
+**Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
+- Orlando, FL - International

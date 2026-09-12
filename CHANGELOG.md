@@ -1145,3 +1145,22 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Four Seasons** — https://careers.fourseasons.com/us/en/internships
 - We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.
 - F&B Service Intern
+
+## 2026-09-12 16:03 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Engineering Intern
+- We are recruiting a Engineering Intern to support administrative operations and guest communication within our luxury hotel. Key responsibilities include managing engineering schedules and handling translation tasks. Ideal for candidates with a service-oriented mindset and a passion for teamwork.
+
+**Estee Lauder Companies (Clinique, MAC, Jo Malone, Le Labo)** — https://www.elcompanies.com/en/careers/students/internships
+- Home Careers Students Internships
+- Internships
+- The Estée Lauder Companies provides a multitude of internship opportunities for students at various levels of their education. These include The Lauder Summer Internship and CEO Presidential Internship Program.
+- Applications for the 2026 CEO Global Presidential Internship Program are now open and will close November 15, 2025.
+- Applications for the 2027 Lauder Internship Program will open in September 2026 and close October 2026.
+- Internship Opportunities
+- The Estée Lauder Companies provides a multitude of internship opportunities for students at various levels of their education. These include:
+- Lauder Summer Internship Program (Undergrad)
+- CEO Global Presidential Internship Program (Masters, MBA)
+- Internships are offered in the following areas:
+- We are known as a learning organization, with internships and full-time opportunities for globally-minded student leaders

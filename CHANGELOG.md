@@ -1211,3 +1211,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 - CEO Global Presidential Internship Program (Masters, MBA)
 - Internships are offered in the following areas:
 - We are known as a learning organization, with internships and full-time opportunities for globally-minded student leaders
+
+## 2026-09-15 17:32 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Concierge Intern

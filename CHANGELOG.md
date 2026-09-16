@@ -1216,3 +1216,14 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Four Seasons** — https://careers.fourseasons.com/us/en/internships
 - Concierge Intern
+
+## 2026-09-16 17:31 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Engineering Intern
+- We are recruiting a Engineering Intern to support administrative operations and guest communication within our luxury hotel. Key responsibilities include managing engineering schedules and handling translation tasks. Ideal for candidates with a service-oriented mindset and a passion for teamwork.
+- Stagiaire / Intern
+- Kitchen Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- GINORI 1735 - Customer Service Intern

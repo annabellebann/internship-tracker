@@ -1236,3 +1236,12 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - BALENCIAGA - Supply and Distribution Planner Shoes Intern - Janvier 2027 (F/H)
 - BALENCIAGA - E-Merchandiser Project Intern - January 2027 (F/M)
+
+## 2026-09-18 17:00 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Kitchen Intern
+- Residential Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - EMEA Retail Buyer Intern - Janvier/January 2027

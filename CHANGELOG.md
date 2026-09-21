@@ -1268,3 +1268,31 @@ Every time the daily check finds new "intern"-related text on a company's career
 - CEO Global Presidential Internship Program (Masters, MBA)
 - Internships are offered in the following areas:
 - We are known as a learning organization, with internships and full-time opportunities for globally-minded student leaders
+
+## 2026-09-21 18:32 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Content Creator & Social Media Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Guest Services & Quality Intern
+- INTERNSHIP – Sales & Community Coordinator
+- People & Culture Intern
+- People & Culture internship
+- Front Office Intern – The Hoxton, Lloyd
+- Housekeeping Supervisor Intern
+- Intern Human Resources
+- INTERNSHIP – Assistant F&B Director
+- Finance Intern
+- Lobby Ambassador Intern
+- Internship Application (f/m/x)
+- Culinary Intern
+- Food & Beverage: Operations & Administrative Intern
+- Intern, Loyalty and Guest Experience, (F/M/X)
+- Intern, Finance and People & Culture (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from January 2027 for students and candidates from EU
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- KERING EYEWEAR Finance Intern
+- BOTTEGA VENETA MERCHANDISING INTERN

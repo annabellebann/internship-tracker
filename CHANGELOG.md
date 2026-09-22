@@ -1296,3 +1296,15 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - KERING EYEWEAR Finance Intern
 - BOTTEGA VENETA MERCHANDISING INTERN
+
+## 2026-09-22 17:35 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Finance Intern
+
+**Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
+- Orlando, FL - International
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - Jewelry & Eyewear Design Intern - October 2026 (F/M)
+- BOUCHERON – Sustainability Projects Coordinator Intern F/H/X

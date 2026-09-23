@@ -1308,3 +1308,16 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - BALENCIAGA - Jewelry & Eyewear Design Intern - October 2026 (F/M)
 - BOUCHERON – Sustainability Projects Coordinator Intern F/H/X
+
+## 2026-09-23 17:46 UTC
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Marketing internship
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Reservations Department Internship
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BOUCHERON - Human Resources Coordinator Internship
+- SAINT LAURENT Financial Control & Business Analysis Intern (6-month contract)
+- BALENCIAGA - Media Coordination Worldwide Intern - January (F/M)

@@ -1321,3 +1321,12 @@ Every time the daily check finds new "intern"-related text on a company's career
 - BOUCHERON - Human Resources Coordinator Internship
 - SAINT LAURENT Financial Control & Business Analysis Intern (6-month contract)
 - BALENCIAGA - Media Coordination Worldwide Intern - January (F/M)
+
+## 2026-09-24 17:49 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Residences Intern (Summer 2027)
+- Guest Experience Intern (Summer 2027)
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- POMELLATO Client Advisor Intern - Rome

@@ -1330,3 +1330,14 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - POMELLATO Client Advisor Intern - Rome
+
+## 2026-09-25 17:50 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Food & Beverage Intern (Summer 2027)
+- Guest Services Intern (Summer 2027)
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- GUCCI Global Industrial Controlling Intern - Starting Date October 2026
+- BOTTEGA VENETA Knitwear Design Intern
+- BALENCIAGA - Corporate Financial Controller Intern - Janvier 2027 (F/H)

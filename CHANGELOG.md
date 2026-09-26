@@ -1341,3 +1341,21 @@ Every time the daily check finds new "intern"-related text on a company's career
 - GUCCI Global Industrial Controlling Intern - Starting Date October 2026
 - BOTTEGA VENETA Knitwear Design Intern
 - BALENCIAGA - Corporate Financial Controller Intern - Janvier 2027 (F/H)
+
+## 2026-09-26 16:56 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Concierge Intern
+
+**Estee Lauder Companies (Clinique, MAC, Jo Malone, Le Labo)** — https://www.elcompanies.com/en/careers/students/internships
+- Home Careers Students Internships
+- Internships
+- The Estée Lauder Companies provides a multitude of internship opportunities for students at various levels of their education. These include The Lauder Summer Internship and CEO Presidential Internship Program.
+- Applications for the 2026 CEO Global Presidential Internship Program are now open and will close November 15, 2025.
+- Applications for the 2027 Lauder Internship Program will open in September 2026 and close October 2026.
+- Internship Opportunities
+- The Estée Lauder Companies provides a multitude of internship opportunities for students at various levels of their education. These include:
+- Lauder Summer Internship Program (Undergrad)
+- CEO Global Presidential Internship Program (Masters, MBA)
+- Internships are offered in the following areas:
+- We are known as a learning organization, with internships and full-time opportunities for globally-minded student leaders

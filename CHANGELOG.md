@@ -1380,3 +1380,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Intern, Loyalty and Guest Experience, (F/M/X)
 - Intern, Finance and People & Culture (F/M/X)
 - INTERNSHIP ❤️ RECEPTION minimum length +4 months from January 2027 for students and candidates from EU
+
+## 2026-09-28 20:04 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.

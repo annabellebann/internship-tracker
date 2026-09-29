@@ -1385,3 +1385,36 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Four Seasons** — https://careers.fourseasons.com/us/en/internships
 - We are expanding our team: As a Four Seasons Los Cabos Intern, you will gain hands-on experience in luxury hospitality, supporting guest-facing and operational activities across multiple departments. Ideal for students with strong interpersonal skills and a passion for service excellence.
+
+## 2026-09-29 18:31 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Concierge Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Sales Intern
+- Front Desk Intern
+
+**Equinox Hotels** — https://careers.equinox.com/corporate
+- Personal Trainer Internship, West Palm Beach
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - Assistant Performance Media Manager Intern - Janvier 2027 (F/H)
+- KERING Business Planning and Brand Value Chain Intern
+
+**Alaska Airlines** — https://careers.alaskaair.com/career-opportunities/interns/
+- Interns at Alaska Airlines, Hawaiian Airlines and Horizon Air are embedded within their teams and work on visible projects that impact our guests and the business.
+- Join our Talent Community to be the first to hear when the next internship application window opens
+- From interns to full time employees
+- Hear from two of our full time employees who got their start through our internship program and see what advice they have for any future interns.
+- Read more about internships at Alaska, Hawaiian and Horizon
+- “My favorite part of this internship is being able to jump seat across the country. It puts everything into perspective, and I get to see what I’m training for in the professional world. What has stuck with me at Alaska is the strong safety culture across the entire company.”
+- Gary, Pilot intern at Alaska Airlines ‘25
+- Lucia, Financial planning and analysis intern at Horizon Air ‘25
+- Maya, Communications intern at Alaska Airlines ‘25
+- View All Internships
+- Are interns paid?
+- Do interns receive travel benefits?
+- Who is eligible for internships at AAG?
+- When should I start looking for an internship position with AAG?
+- For additional questions, reach out to us at internships@alaskaair.com

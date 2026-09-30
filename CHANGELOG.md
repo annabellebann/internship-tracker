@@ -1418,3 +1418,15 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Who is eligible for internships at AAG?
 - When should I start looking for an internship position with AAG?
 - For additional questions, reach out to us at internships@alaskaair.com
+
+## 2026-09-30 18:21 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Engineering Intern
+- We are recruiting a Engineering Intern to support administrative operations and guest communication within our luxury hotel. Key responsibilities include managing engineering schedules and handling translation tasks. Ideal for candidates with a service-oriented mindset and a passion for teamwork.
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - Intern E-business Performance Analyst - January 2027 (F/M)
+- BALENCIAGA - Worldwide Controlling intern - December 2026 (F/M)
+- BALENCIAGA - Demand Planning Intern - September 2026 (F/H)
+- BALENCIAGA - Global VIC Intern - Janvier 2027 (F/M)

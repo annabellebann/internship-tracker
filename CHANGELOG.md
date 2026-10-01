@@ -1430,3 +1430,30 @@ Every time the daily check finds new "intern"-related text on a company's career
 - BALENCIAGA - Worldwide Controlling intern - December 2026 (F/M)
 - BALENCIAGA - Demand Planning Intern - September 2026 (F/H)
 - BALENCIAGA - Global VIC Intern - Janvier 2027 (F/M)
+
+## 2026-10-01 18:45 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Marketing Communications Intern
+- Sales Admin Intern
+- People & Culture Intern
+- Kitchen Intern
+- Fitness & Wellness Intern
+- Front Office Intern
+- Pastry Intern
+- Restaurants, Bars & Experiences Intern
+- Housekeeping Intern
+- Finance Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- KERING Risk Analyst and Travel Security Intern (stage)
+- KERING Talent Management and Analytics Intern (stage)
+- KERING Talent Acquisition intern (stage)
+- KERING Leadership Development Intern (stage)
+- KERING Real Estate Intern (stage)
+- KERING Cash Management & Back Office Intern
+
+**Southwest Airlines** — https://careers.southwestair.com/us/en/campus-reach
+- Applications for our Summer 2027 Internships are now open!
+- We're accepting applications now through Wednesday, October 7 for internship opportunities across multiple departments. If you don't see what you're looking, keep checking back! We'll post more roles through the end of the week.
+- Apply for a Summer Internship

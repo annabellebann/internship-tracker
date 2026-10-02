@@ -1457,3 +1457,20 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Applications for our Summer 2027 Internships are now open!
 - We're accepting applications now through Wednesday, October 7 for internship opportunities across multiple departments. If you don't see what you're looking, keep checking back! We'll post more roles through the end of the week.
 - Apply for a Summer Internship
+
+## 2026-10-02 18:16 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Residential Intern
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Concierge Intern
+
+**Fairmont (Accor)** — https://careers.accor.com/global/en/fairmont
+- Tatich (transportación interna huéspedes)
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BOTTEGA VENETA CRM Campaign Intern (Curricular Internship)
+- KERING Global Accounting Process Performance Intern
+- BOTTEGA VENETA HR Learning & Development Intern
+- KERING Chargé(e) de Projets Communication Interne, Engagement & Diversité (stage)

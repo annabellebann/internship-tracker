@@ -1474,3 +1474,27 @@ Every time the daily check finds new "intern"-related text on a company's career
 - KERING Global Accounting Process Performance Intern
 - BOTTEGA VENETA HR Learning & Development Intern
 - KERING Chargé(e) de Projets Communication Interne, Engagement & Diversité (stage)
+
+## 2026-10-03 17:02 UTC
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- F&B Attendant – Internship
+- Guest Service Agent – Internship
+- Finance Intern – Accounts receivable
+- Finance Intern – Accounts Payable
+- Sales Intern
+- Front Desk Intern
+- Reservations Department Internship
+- Guest Services & Quality Intern
+- INTERNSHIP – Sales & Community Coordinator
+- People & Culture Intern
+- Housekeeping Supervisor Intern
+- Intern Human Resources
+- INTERNSHIP – Assistant F&B Director
+- Finance Intern
+- Lobby Ambassador Intern
+- Internship Application (f/m/x)
+- Culinary Intern
+- Intern, Finance and People & Culture (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from January 2027 for students and candidates from EU

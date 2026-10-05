@@ -1498,3 +1498,19 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Culinary Intern
 - Intern, Finance and People & Culture (F/M/X)
 - INTERNSHIP ❤️ RECEPTION minimum length +4 months from January 2027 for students and candidates from EU
+
+## 2026-10-05 21:02 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Guestroom Attendant - J1 Intern
+- Intern – Culinary
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Internal Controls Manager
+- People & Culture Intern
+- Finance Intern
+- Housekeeping Intern
+- Engineering Intern
+
+**Toast** — https://careers.toasttab.com/early-career
+- If I receive a full-time conversion offer after my internship, do you offer visa sponsorship?

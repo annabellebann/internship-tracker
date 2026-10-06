@@ -1514,3 +1514,16 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Toast** — https://careers.toasttab.com/early-career
 - If I receive a full-time conversion offer after my internship, do you offer visa sponsorship?
+
+## 2026-10-06 18:50 UTC
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Food & Beverage Management Intern – Lotti’s
+- Front Office Intern – The Hoxton, Amsterdam
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - Social Media Intern - January 2027 (F/M)
+- BOTTEGA VENETA EMEA Controlling Intern
+
+**David Yurman** — https://www.davidyurman.com/careers.html
+- SUMMER INTERNSHIP PROGRAM

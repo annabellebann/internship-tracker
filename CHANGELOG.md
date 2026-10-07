@@ -1527,3 +1527,32 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **David Yurman** — https://www.davidyurman.com/careers.html
 - SUMMER INTERNSHIP PROGRAM
+
+## 2026-10-07 19:17 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Intern – F&B Service
+
+**Standard International** — https://www.standardhotels.com/careers
+- Front Office Intern
+- Sales Intern
+- Human Resources Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Guest Experience Internship
+- Front Office Internship
+- Finance Internship
+- People & Culture Internship
+- Reservation Internship
+- F&B Internship
+- Revenue Internship
+- Management Internship
+- Sales&Marketing Internship
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- GUCCI RTW Product Assistant Intern
+
+**The Standard Hotels** — https://www.standardhotels.com/careers
+- Front Office Intern
+- Sales Intern
+- Human Resources Intern

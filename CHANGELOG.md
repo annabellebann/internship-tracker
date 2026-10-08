@@ -1556,3 +1556,24 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Front Office Intern
 - Sales Intern
 - Human Resources Intern
+
+## 2026-10-08 19:12 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Engineering Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Groups, Sales and Events Intern
+
+**Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
+- Orlando, FL - International
+
+**Wayfair** — https://www.aboutwayfair.com/careers/early-talent
+- Intern Program
+- "During my internship on the CastleGate Forwarding sales and service team, I focused on automating contact data flows between Google BigQuery, Salesforce, and n8n... What really made the experience special, though, was the people."
+- Learn More About Our Internship Program
+
+**Southwest Airlines** — https://careers.southwestair.com/us/en/campus-reach
+- Spring Internship opportunities are only within the Technology Department
+- Summer Internship opportunities across multiple departments
+- Are you interested in more information about internships at Southwestor our full-time direct college hire positions? If so, sign up below!

@@ -1577,3 +1577,16 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Spring Internship opportunities are only within the Technology Department
 - Summer Internship opportunities across multiple departments
 - Are you interested in more information about internships at Southwestor our full-time direct college hire positions? If so, sign up below!
+
+## 2026-10-09 18:43 UTC
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Guest Experience Intern | season 2027 | Grand Hotel Timeo, a Belmond Hotel
+- Front Office Intern | season 2027 | Grand Hotel Timeo, a Belmond Hotel
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- KERING Accounts Receivable Intern
+- BALENCIAGA - LG Design Intern - January 2027 (F/M)
+- BALENCIAGA - Shoes Sales Merchandiser Intern - January 2027 (M/F)
+- BALENCIAGA - PR Assistant Intern - January 2027 (F/M)
+- BALENCIAGA - Global Direct Marketing Intern - January 2027 (M/F)

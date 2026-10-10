@@ -1590,3 +1590,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 - BALENCIAGA - Shoes Sales Merchandiser Intern - January 2027 (M/F)
 - BALENCIAGA - PR Assistant Intern - January 2027 (F/M)
 - BALENCIAGA - Global Direct Marketing Intern - January 2027 (M/F)
+
+## 2026-10-10 17:42 UTC
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BOUCHERON HR Intern, GC

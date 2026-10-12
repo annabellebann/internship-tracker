@@ -1595,3 +1595,60 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - BOUCHERON HR Intern, GC
+
+## 2026-10-12 21:37 UTC
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Culinary – Internship
+- Food & Beverage Service – Internship
+- Front Office – Internship
+- Groups, Sales and Events Intern
+- Food & Beverage Management Intern – Lotti’s
+- Front Office Intern – The Hoxton, Amsterdam
+- F&B Attendant – Internship
+- Guest Service Agent – Internship
+- Finance Intern – Accounts receivable
+- Finance Intern – Accounts Payable
+- Guest Experience Internship
+- Front Office Internship
+- Finance Internship
+- People & Culture Internship
+- Reservation Internship
+- F&B Internship
+- Revenue Internship
+- Management Internship
+- Sales&Marketing Internship
+- Sales Intern
+- Front Desk Intern
+- Reservations Department Internship
+- Guest Services & Quality Intern
+- INTERNSHIP – Sales & Community Coordinator
+- Intern Human Resources
+- INTERNSHIP – Assistant F&B Director
+- Finance Intern
+- Lobby Ambassador Intern
+- Internship Application (f/m/x)
+- Culinary Intern
+- Intern, Finance and People & Culture (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from January 2027 for students and candidates from EU
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- Internships
+- Choosing an internship at Travelers will allow you to make immediate – and lasting – contributions through meaningful real-world experiences that help people manage risk, recover from losses and secure their future. As an intern, you’ll have the opportunity to:
+- Meet other interns from across the country.
+- Have the opportunity to apply and interview for return internships and full-time positions with Travelers.
+- From internships to leadership development programs to ongoing training, learning and growth are yours for the taking. Where you start at Travelers is just the beginning.
+- Our annual fireside chat was a standout moment this summer for our intern cohort. Travelers Chairman and CEO Alan Schnitzer joined interns to discuss practical tips for building a career at Travelers, why we put people and place first and the critical role of innovation in a rapidly changing world.
+- #TeamTravelers #TRVIntern #Internships #Mentorship #CareerDevelopment
+- As we take a look back at #NationalInternDay, we’re celebrating the impact our interns make at Travelers. All summer, they’ve taken on new challenges, shared fresh ideas and brought real energy to our teams, customers and communities.
+- 🔗 Discover what it’s like to intern at Travelers: https://travl.rs/4wLeoPD.
+- #TeamTravelers #TRVIntern #EmergingTalent
+- Large group of Travelers interns pose on an outdoor staircase between office buildings for a group photo, with “Intern Symposium” and the Travelers umbrella logo at the top and “Travelers Careers” branding at the bottom.
+- Wondering where an internship at Travelers can take you? ⭐
+- #TeamTravelers #TRVIntern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- GUCCI Women's Shoes Retail Merchandising Intern
+- SAINT LAURENT Junior Compensation & Benefits Analyst Internship
+- BOTTEGA VENETA Shoes Internal Production Planning & Logistics Manager

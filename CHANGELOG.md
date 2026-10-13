@@ -1652,3 +1652,17 @@ Every time the daily check finds new "intern"-related text on a company's career
 - GUCCI Women's Shoes Retail Merchandising Intern
 - SAINT LAURENT Junior Compensation & Benefits Analyst Internship
 - BOTTEGA VENETA Shoes Internal Production Planning & Logistics Manager
+
+## 2026-10-13 19:48 UTC
+
+**David Stark Design** — https://davidstarkdesign.com/work-with-us/
+- Internships
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- We have been named to the 2026 RISE (Rising Insurance Star Executives) Elite 50 Internships List, which recognizes the insurance industry’s best internship programs across the U.S.
+- 🔗 Learn more about internships at Travelers: https://travl.rs/47pXRpo.
+- #TeamTravelers #TRVIntern #LifeAtTravelers
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA Sales & Client Advisor (Keyholder) | International Market Place
+- GUCCI People Intern

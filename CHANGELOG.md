@@ -1729,3 +1729,25 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - GUCCI Global Client Engagement Intern
 - GUCCI Human Resources Intern
+
+## 2026-10-15 17:39 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern, Concierge
+
+**Fairmont (Accor)** — https://careers.accor.com/global/en/fairmont
+- Recreation Attendant II (Internship)
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship – Reservations
+- Internship – Front Office
+- Intern – Kitchen
+- Internship – Food & Beverage
+- Internship: People & Culture – The Hoxton, Lloyd
+- Internship: Assistant F&B Director – The Hoxton Lloyd
+- Internship: Front Office – The Hoxton, Lloyd
+- Intern – Food & Beverage
+- Intern – Front Office
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- SAINT LAURENT EMEA FINANCIAL CONTROLLING INTERN H/F

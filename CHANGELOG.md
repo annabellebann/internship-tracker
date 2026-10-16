@@ -1751,3 +1751,17 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - SAINT LAURENT EMEA FINANCIAL CONTROLLING INTERN H/F
+
+## 2026-10-16 17:14 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Kitchen Intern - Four Seasons Resort Mallorca at Formentor (Season 2027)
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- People & Culture – Internship
+- Front Office Intern
+- Prácticas Profesionales / Internship Oportunities – SO/ Sotogrande
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- KERING Contrôleur Interne (stage)
+- BOTTEGA VENETA WW Sample Intern (Curricular Internship)

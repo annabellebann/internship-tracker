@@ -1765,3 +1765,11 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - KERING Contrôleur Interne (stage)
 - BOTTEGA VENETA WW Sample Intern (Curricular Internship)
+
+## 2026-10-17 16:11 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- F&B Service Intern - Four Seasons Resort Mallorca at Formentor (Season 2027)
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Rooms – Internship

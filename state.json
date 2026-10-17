@@ -1,73 +1,72 @@
 {
   "Four Seasons": {
     "hits": [
-      "Residences Intern (Summer 2027)",
       "Food & Beverage Intern (Summer 2027)",
+      "Residences Intern (Summer 2027)",
       "Guest Experience Intern (Summer 2027)",
       "Guest Services Intern (Summer 2027)",
+      "\u9910\u996e\u90e8\u5b9e\u4e60\u751f F&B Intern",
       "Culinary Intern",
       "\u623f\u52a1\u90e8\u5b9e\u4e60\u751f Rooms Intern",
-      "\u9910\u996e\u90e8\u5b9e\u4e60\u751f F&B Intern",
       "Intern \u2013 Culinary",
       "Intern \u2013 F&B Service",
-      "Kitchen Intern - Four Seasons Resort Mallorca at Formentor (Season 2027)"
+      "F&B Service Intern - Four Seasons Resort Mallorca at Formentor (Season 2027)"
     ],
-    "last_checked": "2026-10-16T17:09:15.588660+00:00"
+    "last_checked": "2026-10-17T16:06:31.507449+00:00"
   },
   "Aman": {
     "hits": [],
-    "last_checked": "2026-10-16T17:09:19.734871+00:00"
+    "last_checked": "2026-10-17T16:06:35.541471+00:00"
   },
   "Rosewood Hotels & Resorts": {
     "hits": [],
-    "last_checked": "2026-10-16T17:09:26.905787+00:00"
+    "last_checked": "2026-10-17T16:06:42.695129+00:00"
   },
   "Belmond (LVMH)": {
     "hits": [
       "Internship"
     ],
-    "last_checked": "2026-10-16T17:09:30.738700+00:00"
+    "last_checked": "2026-10-17T16:06:46.603643+00:00"
   },
   "Six Senses (IHG)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:09:33.920326+00:00"
+    "last_checked": "2026-10-17T16:06:49.778919+00:00"
   },
   "The Peninsula Hotels (HSH)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:09:37.117235+00:00"
+    "last_checked": "2026-10-17T16:06:52.974792+00:00"
   },
   "Mandarin Oriental": {
     "hits": [
       "Internship",
       "Intern",
-      "Intern, Concierge",
-      "Operational & Managerial Internships"
+      "Intern, Concierge"
     ],
-    "last_checked": "2026-10-16T17:09:41.621613+00:00"
+    "last_checked": "2026-10-17T16:06:57.414894+00:00"
   },
   "Ritz-Carlton (Marriott)": {
     "hits": [
       "\u00a9 1996 - 2026 Marriott International, Inc. All rights reserved. Marriott proprietary information"
     ],
-    "last_checked": "2026-10-16T17:09:45.867689+00:00"
+    "last_checked": "2026-10-17T16:07:01.483179+00:00"
   },
   "Park Hyatt (Hyatt)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:09:49.485419+00:00"
+    "last_checked": "2026-10-17T16:07:04.963612+00:00"
   },
   "St. Regis (Marriott)": {
     "hits": [
       "\u00a9 1996 - 2026 Marriott International, Inc. All rights reserved. Marriott proprietary information"
     ],
-    "last_checked": "2026-10-16T17:09:53.549725+00:00"
+    "last_checked": "2026-10-17T16:07:09.617190+00:00"
   },
   "Fairmont (Accor)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:09:58.210078+00:00"
+    "last_checked": "2026-10-17T16:07:14.003508+00:00"
   },
   "Relais & Chateaux": {
     "hits": [],
-    "last_checked": "2026-10-16T17:10:01.944646+00:00"
+    "last_checked": "2026-10-17T16:07:17.669468+00:00"
   },
   "Standard International": {
     "hits": [
@@ -75,19 +74,22 @@
       "Sales Intern",
       "Human Resources Intern"
     ],
-    "last_checked": "2026-10-16T17:10:06.625871+00:00"
+    "last_checked": "2026-10-17T16:07:22.210927+00:00"
   },
   "Sydell Group (NoMad/Line/Freehand)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:10:09.749398+00:00"
+    "last_checked": "2026-10-17T16:07:25.344473+00:00"
   },
   "Salamander Hotels & Resorts": {
     "hits": [],
-    "last_checked": "2026-10-16T17:10:13.708771+00:00"
+    "last_checked": "2026-10-17T16:07:28.841981+00:00"
   },
   "Ennismore (Hoxton/Gleneagles)": {
     "hits": [
       "Internship",
+      "Intern \u2013 Front Office",
+      "Food & Beverage Service \u2013 Internship",
+      "Rooms \u2013 Internship",
       "Food & Beverage Intern",
       "People & Culture \u2013 Internship",
       "Front Office Intern",
@@ -100,7 +102,6 @@
       "Internship: Assistant F&B Director \u2013 The Hoxton Lloyd",
       "Internship: Front Office \u2013 The Hoxton, Lloyd",
       "Intern \u2013 Food & Beverage",
-      "Intern \u2013 Front Office",
       "Internship \u2013 Executive Assistant Manager",
       "F&B Service Intern",
       "People & Culture Intern",
@@ -111,7 +112,6 @@
       "Food & Beverage: Operations & Administrative Intern",
       "HR & Talent Acquisition Intern",
       "Culinary \u2013 Internship",
-      "Food & Beverage Service \u2013 Internship",
       "Front Office \u2013 Internship",
       "Food & Beverage Management Intern \u2013 Lotti\u2019s",
       "Front Office Intern \u2013 The Hoxton, Amsterdam",
@@ -141,33 +141,33 @@
       "Intern, Finance and People & Culture (F/M/X)",
       "INTERNSHIP \u2764\ufe0f RECEPTION minimum length +4 months from January 2027 for students and candidates from EU"
     ],
-    "last_checked": "2026-10-16T17:10:18.197136+00:00"
+    "last_checked": "2026-10-17T16:07:34.405664+00:00"
   },
   "Graduate Hotels": {
     "hits": [],
-    "last_checked": "2026-10-16T17:10:22.985713+00:00"
+    "last_checked": "2026-10-17T16:07:39.393295+00:00"
   },
   "Equinox Hotels": {
     "hits": [
       "Equinox Hudson Yards is more than a workplace\u2014our largest club yet and first-ever hotel complete the brand trifecta at this international address. As part of Team EQX, our employees are invited to experience Hudson Yards and take time to work out during the workday during non-prime-time hours."
     ],
-    "last_checked": "2026-10-16T17:10:28.460436+00:00"
+    "last_checked": "2026-10-17T16:07:44.993046+00:00"
   },
   "Ace Hotel Group (Atelier Ace)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:10:31.891551+00:00"
+    "last_checked": "2026-10-17T16:07:48.443594+00:00"
   },
   "Jack Morton Worldwide": {
     "hits": [],
-    "last_checked": "2026-10-16T17:10:35.542259+00:00"
+    "last_checked": "2026-10-17T16:07:52.117320+00:00"
   },
   "George P. Johnson (GPJ)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:10:39.120022+00:00"
+    "last_checked": "2026-10-17T16:07:55.582614+00:00"
   },
   "Frank Events (Frank Productions)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:10:42.278645+00:00"
+    "last_checked": "2026-10-17T16:07:58.735152+00:00"
   },
   "Colin Cowie Lifestyle": {
     "hits": [
@@ -178,77 +178,77 @@
       "We are currently seeking educational internship candidates in the NYC, LA and Miami metro areas. Limited opportunities available.",
       "INTERNSHIPS"
     ],
-    "last_checked": "2026-10-16T17:10:46.255831+00:00"
+    "last_checked": "2026-10-17T16:08:03.265069+00:00"
   },
   "David Stark Design": {
     "hits": [
       "INTERNSHIPS"
     ],
-    "last_checked": "2026-10-16T17:10:49.700945+00:00"
+    "last_checked": "2026-10-17T16:08:06.916086+00:00"
   },
   "BBJ Linen / BBJ La Tavola": {
     "hits": [
       "Working a pipeline of inbound and self-sourced leads to identify, engage, and develop relationships with potential partners Collaborating with partners to enhance design and achieve our partner\u2019s design vision Utilizing internal and..."
     ],
-    "last_checked": "2026-10-16T17:10:53.474662+00:00"
+    "last_checked": "2026-10-17T16:08:10.682443+00:00"
   },
   "Cain & Co": {
     "hits": [],
-    "last_checked": "2026-10-16T17:10:58.067497+00:00"
+    "last_checked": "2026-10-17T16:08:15.639535+00:00"
   },
   "Bluebird Productions": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:01.330125+00:00"
+    "last_checked": "2026-10-17T16:08:18.884694+00:00"
   },
   "Pentagram": {
     "hits": [
       "Every designer at Pentagram works on a team led by one of our partners. This means each gets the experience of working in a small, hands-on setting with access to the resources of a large, international firm."
     ],
-    "last_checked": "2026-10-16T17:11:04.744075+00:00"
+    "last_checked": "2026-10-17T16:08:22.344992+00:00"
   },
   "Wolff Olins": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:08.447021+00:00"
+    "last_checked": "2026-10-17T16:08:25.814734+00:00"
   },
   "COLLINS": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:12.045567+00:00"
+    "last_checked": "2026-10-17T16:08:29.313651+00:00"
   },
   "Mother Design": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:15.815192+00:00"
+    "last_checked": "2026-10-17T16:08:32.981110+00:00"
   },
   "Sagmeister & Walsh": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:19.985754+00:00"
+    "last_checked": "2026-10-17T16:08:37.019665+00:00"
   },
   "DDB (Omnicom)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:23.678557+00:00"
+    "last_checked": "2026-10-17T16:08:40.662128+00:00"
   },
   "Anomaly": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:27.510162+00:00"
+    "last_checked": "2026-10-17T16:08:44.564137+00:00"
   },
   "Movement Strategy": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:31.239328+00:00"
+    "last_checked": "2026-10-17T16:08:48.060350+00:00"
   },
   "Richemont (incl. Chloe, Cartier, Van Cleef & Arpels)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:34.571534+00:00"
+    "last_checked": "2026-10-17T16:08:51.800995+00:00"
   },
   "Ralph Lauren": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:37.891549+00:00"
+    "last_checked": "2026-10-17T16:08:55.234356+00:00"
   },
   "Tory Burch": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:41.351043+00:00"
+    "last_checked": "2026-10-17T16:08:58.647465+00:00"
   },
   "Kate Spade (Tapestry)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:45.488669+00:00"
+    "last_checked": "2026-10-17T16:09:02.602362+00:00"
   },
   "Union Square Hospitality Group": {
     "hits": [
@@ -269,35 +269,35 @@
       "USHG partners with Educational Housing Services (EHS), a not-for-profit organization that provides safe, convenient housing services to thousands of students and interns. Those chosen for the program can log onto here, complete the form, and learn about the housing options they provide students.",
       "Please note that EHS is not affiliated with USHG, and ultimately, any housing expenses will be at the intern\u2019s own cost."
     ],
-    "last_checked": "2026-10-16T17:11:49.698661+00:00"
+    "last_checked": "2026-10-17T16:09:06.383219+00:00"
   },
   "Sweetgreen": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:54.484057+00:00"
+    "last_checked": "2026-10-17T16:09:11.115148+00:00"
   },
   "Blue Bottle Coffee (Nestle)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:11:57.714979+00:00"
+    "last_checked": "2026-10-17T16:09:14.353588+00:00"
   },
   "Van Leeuwen Ice Cream": {
     "hits": [],
-    "last_checked": "2026-10-16T17:12:01.400226+00:00"
+    "last_checked": "2026-10-17T16:09:18.053911+00:00"
   },
   "Levain Bakery": {
     "hits": [
       "We know that when we take care of our people internally, they will be able to take care of our customers. We don\u2019t take it for granted that our customers have many options, and their support for Levain is something we work hard to earn each day."
     ],
-    "last_checked": "2026-10-16T17:12:06.418151+00:00"
+    "last_checked": "2026-10-17T16:09:22.905402+00:00"
   },
   "Milk Bar": {
     "hits": [],
-    "last_checked": "2026-10-16T17:12:11.651035+00:00"
+    "last_checked": "2026-10-17T16:09:27.763567+00:00"
   },
   "Dandelion Chocolate": {
     "hits": [
       "We frequently bring team members to national and international chocolate conferences like FCIA or Chocoa."
     ],
-    "last_checked": "2026-10-16T17:12:15.930124+00:00"
+    "last_checked": "2026-10-17T16:09:32.779918+00:00"
   },
   "Wayfair": {
     "hits": [
@@ -308,11 +308,11 @@
       "Learn More About Our Internship Program",
       "Early talent are assigned high-impact projects for the duration of their internship, gaining real-world experience and the opportunity to be part of moving the company forward."
     ],
-    "last_checked": "2026-10-16T17:12:19.675875+00:00"
+    "last_checked": "2026-10-17T16:09:36.461940+00:00"
   },
   "TripAdvisor": {
     "hits": [],
-    "last_checked": "2026-10-16T17:12:23.519280+00:00"
+    "last_checked": "2026-10-17T16:09:40.194705+00:00"
   },
   "Toast": {
     "hits": [
@@ -330,11 +330,11 @@
       "What\u2019s the culture like at Toast for interns and co-ops?",
       "What benefits or perks can I expect as a co-op or intern?"
     ],
-    "last_checked": "2026-10-16T17:12:27.656146+00:00"
+    "last_checked": "2026-10-17T16:09:44.117375+00:00"
   },
   "Rue Gilt Groupe": {
     "hits": [],
-    "last_checked": "2026-10-16T17:12:30.874482+00:00"
+    "last_checked": "2026-10-17T16:09:47.421961+00:00"
   },
   "Airbnb": {
     "hits": [
@@ -349,15 +349,15 @@
       "See all internships",
       "Former Software Engineer Intern"
     ],
-    "last_checked": "2026-10-16T17:12:35.056896+00:00"
+    "last_checked": "2026-10-17T16:09:51.197805+00:00"
   },
   "Sonder": {
     "hits": [],
-    "last_checked": "2026-10-16T17:12:38.379239+00:00"
+    "last_checked": "2026-10-17T16:09:54.575201+00:00"
   },
   "Away": {
     "hits": [],
-    "last_checked": "2026-10-16T17:12:44.347420+00:00"
+    "last_checked": "2026-10-17T16:10:00.280563+00:00"
   },
   "Travelers": {
     "hits": [
@@ -370,28 +370,25 @@
       "\ud83d\udd17 Learn more about internships at Travelers: https://travl.rs/47pXRpo.",
       "#TeamTravelers #TRVIntern #LifeAtTravelers"
     ],
-    "last_checked": "2026-10-16T17:12:48.583020+00:00"
+    "last_checked": "2026-10-17T16:10:04.410018+00:00"
   },
   "Kering (Gucci, YSL, Bottega Veneta, Balenciaga)": {
-    "hits": [
-      "KERING Contr\u00f4leur Interne (stage)",
-      "BOTTEGA VENETA WW Sample Intern (Curricular Internship)"
-    ],
-    "last_checked": "2026-10-16T17:12:53.182832+00:00"
+    "hits": [],
+    "last_checked": "2026-10-17T16:10:08.669033+00:00"
   },
   "Estee Lauder Companies (Clinique, MAC, Jo Malone, Le Labo)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:12:56.372113+00:00"
+    "last_checked": "2026-10-17T16:10:11.855005+00:00"
   },
   "Pinterest": {
     "hits": [],
-    "last_checked": "2026-10-16T17:12:59.586645+00:00"
+    "last_checked": "2026-10-17T16:10:15.193097+00:00"
   },
   "Adobe": {
     "hits": [
       "Join our next generation of innovators through internships, new graduate programs, and university partnerships designed to launch your next chapter at Adobe. Contribute to products that billions use while forging the foundation for an extraordinary career."
     ],
-    "last_checked": "2026-10-16T17:13:03.561968+00:00"
+    "last_checked": "2026-10-17T16:10:20.044914+00:00"
   },
   "Squarespace": {
     "hits": [
@@ -412,7 +409,7 @@
       "Internal Products",
       "Internal Products creates and maintains rich, modern applications, services and integrations that power the growth of Squarespace. We work closely with teams across the company to define and solve complex problems."
     ],
-    "last_checked": "2026-10-16T17:13:08.450971+00:00"
+    "last_checked": "2026-10-17T16:10:24.779333+00:00"
   },
   "Alaska Airlines": {
     "hits": [
@@ -433,7 +430,7 @@
       "When should I start looking for an internship position with AAG?",
       "For additional questions, reach out to us at internships@alaskaair.com"
     ],
-    "last_checked": "2026-10-16T17:13:11.955675+00:00"
+    "last_checked": "2026-10-17T16:10:28.318546+00:00"
   },
   "Southwest Airlines": {
     "hits": [
@@ -475,27 +472,27 @@
       "What\u2019s the hiring process for internships?",
       "Are the internship start and end dates flexible?"
     ],
-    "last_checked": "2026-10-16T17:13:16.792975+00:00"
+    "last_checked": "2026-10-17T16:10:33.213254+00:00"
   },
   "Eater (Vox Media)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:13:20.762375+00:00"
+    "last_checked": "2026-10-17T16:10:36.966365+00:00"
   },
   "Resy (American Express)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:13:25.887366+00:00"
+    "last_checked": "2026-10-17T16:10:41.272348+00:00"
   },
   "The Infatuation (JPMorgan Chase)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:13:30.007880+00:00"
+    "last_checked": "2026-10-17T16:10:45.461354+00:00"
   },
   "Soho House": {
     "hits": [],
-    "last_checked": "2026-10-16T17:13:33.585850+00:00"
+    "last_checked": "2026-10-17T16:10:48.892516+00:00"
   },
   "Auberge Resorts": {
     "hits": [],
-    "last_checked": "2026-10-16T17:13:37.588509+00:00"
+    "last_checked": "2026-10-17T16:10:52.880099+00:00"
   },
   "Mastercard": {
     "hits": [
@@ -504,7 +501,7 @@
       "Our full-time internships let you work alongside experienced professionals, contribute to meaningful projects, and gain experience at a global technology company.",
       "Explore our internship program"
     ],
-    "last_checked": "2026-10-16T17:13:41.576143+00:00"
+    "last_checked": "2026-10-17T16:10:57.592816+00:00"
   },
   "Biltmore Estate / Biltmore Farms": {
     "hits": [
@@ -521,7 +518,7 @@
       "Are the Hospitality internships paid internships?",
       "Which restaurants will I be working in as an intern or extern?"
     ],
-    "last_checked": "2026-10-16T17:13:45.281966+00:00"
+    "last_checked": "2026-10-17T16:11:01.136610+00:00"
   },
   "The Standard Hotels": {
     "hits": [
@@ -529,32 +526,32 @@
       "Sales Intern",
       "Human Resources Intern"
     ],
-    "last_checked": "2026-10-16T17:13:49.541187+00:00"
+    "last_checked": "2026-10-17T16:11:05.223246+00:00"
   },
   "David Yurman": {
     "hits": [
       "SUMMER INTERNSHIP PROGRAM"
     ],
-    "last_checked": "2026-10-16T17:13:54.960943+00:00"
+    "last_checked": "2026-10-17T16:11:09.930265+00:00"
   },
   "Legends Global": {
     "hits": [
       "INTERNSHIPS",
       "Every role is a chance to strengthen our talent pipeline. Our internships provide valuable learning experiences and real opportunities to make meaingful contributions."
     ],
-    "last_checked": "2026-10-16T17:13:58.642990+00:00"
+    "last_checked": "2026-10-17T16:11:13.577711+00:00"
   },
   "Louis Vuitton (LVMH)": {
     "hits": [],
-    "last_checked": "2026-10-16T17:14:01.879220+00:00"
+    "last_checked": "2026-10-17T16:11:17.003692+00:00"
   },
   "Clarins": {
     "hits": [],
-    "last_checked": "2026-10-15T17:39:24.515003+00:00"
+    "last_checked": "2026-10-17T16:11:20.362471+00:00"
   },
   "HubSpot": {
     "hits": [],
-    "last_checked": "2026-10-16T17:14:39.209637+00:00"
+    "last_checked": "2026-10-17T16:11:24.241681+00:00"
   },
   "Great Wolf Lodge": {
     "hits": [
@@ -567,6 +564,6 @@
       "Interns will have access to Great Wolf\u2019s housing portal. This portal will give interns options to find short-term housing near their lodge. They will also have opportunity to match with other interns that are looking for roommates.",
       "All interns will be responsible for their own housing and transportation to the lodge."
     ],
-    "last_checked": "2026-10-16T17:14:42.473714+00:00"
+    "last_checked": "2026-10-17T16:11:27.575411+00:00"
   }
 }

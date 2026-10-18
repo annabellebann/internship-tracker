@@ -1773,3 +1773,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
 - Rooms – Internship
+
+## 2026-10-18 16:24 UTC
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- QEELIN_Retail Operation Intern

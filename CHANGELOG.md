@@ -1778,3 +1778,19 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - QEELIN_Retail Operation Intern
+
+## 2026-10-19 19:02 UTC
+
+**Standard International** — https://www.standardhotels.com/careers
+- Reservation Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Marketing Internship
+- F&B Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- GUCCI Costume Jewelry Merchandising Intern
+- GUCCI Women's Shoes Retail Merchandising Intern
+
+**The Standard Hotels** — https://www.standardhotels.com/careers
+- Reservation Intern

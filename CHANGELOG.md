@@ -1794,3 +1794,20 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **The Standard Hotels** — https://www.standardhotels.com/careers
 - Reservation Intern
+
+## 2026-10-20 17:49 UTC
+
+**Standard International** — https://www.standardhotels.com/careers
+- Housekeeping Intern
+- HR Intern
+- Sales & Events Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - PR EMEA Intern - January (F/M)
+- BALENCIAGA - Supply and Distribution Planner Shoes Intern - Janvier 2027 (F/H)
+- BALENCIAGA - MRTW Development intern – Mars 2027 (H/F)
+
+**The Standard Hotels** — https://www.standardhotels.com/careers
+- Housekeeping Intern
+- HR Intern
+- Sales & Events Intern

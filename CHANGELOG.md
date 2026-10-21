@@ -1811,3 +1811,26 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Housekeeping Intern
 - HR Intern
 - Sales & Events Intern
+
+## 2026-10-21 17:57 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Operational & Managerial Internships
+
+**Standard International** — https://www.standardhotels.com/careers
+- F&B Operations Intern
+- Kitchen Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Food & Beverage – Internship
+- Guest Experience Intern
+- Food & Beverage Culinary Intern
+- Purchasing Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - EMEA Visual Merchandising Intern - November 2026
+- BOTTEGA VENETA Product PR Intern (Curricular Internship)
+
+**The Standard Hotels** — https://www.standardhotels.com/careers
+- F&B Operations Intern
+- Kitchen Intern

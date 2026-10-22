@@ -1834,3 +1834,33 @@ Every time the daily check finds new "intern"-related text on a company's career
 **The Standard Hotels** — https://www.standardhotels.com/careers
 - F&B Operations Intern
 - Kitchen Intern
+
+## 2026-10-22 18:08 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Food & Beverage Intern (Summer 2027)
+- Guest Experience Intern (Summer 2027)
+- Guest Services Intern (Summer 2027)
+- 餐饮部实习生 F&B Intern
+- Culinary Intern
+- 房务部实习生 Rooms Intern
+- Intern – Culinary
+- Intern – F&B Service
+- F&B Service Intern - Four Seasons Resort Mallorca at Formentor (Season 2027)
+- Kitchen Intern - Four Seasons Resort Mallorca at Formentor (Season 2027)
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Internship
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- Internships
+- Choosing an internship at Travelers will allow you to make immediate – and lasting – contributions through meaningful real-world experiences that help people manage risk, recover from losses and secure their future. As an intern, you’ll have the opportunity to:
+- Meet other interns from across the country.
+- Have the opportunity to apply and interview for return internships and full-time positions with Travelers.
+- From internships to leadership development programs to ongoing training, learning and growth are yours for the taking. Where you start at Travelers is just the beginning.
+- We have been named to the 2026 RISE (Rising Insurance Star Executives) Elite 50 Internships List, which recognizes the insurance industry’s best internship programs across the U.S.
+- 🔗 Learn more about internships at Travelers: https://travl.rs/47pXRpo.
+- #TeamTravelers #TRVIntern #LifeAtTravelers
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - RTW Design Intern - November 2026 (F/M)

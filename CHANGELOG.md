@@ -1882,3 +1882,67 @@ Every time the daily check finds new "intern"-related text on a company's career
 - CEO Global Presidential Internship Program (Masters, MBA)
 - Internships are offered in the following areas:
 - We are known as a learning organization, with internships and full-time opportunities for globally-minded student leaders
+
+## 2026-10-26 19:05 UTC
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Front Office Intern
+- Marketing Internship
+- Food & Beverage – Internship
+- Rooms – Internship
+- Culinary – Internship
+- Guest Experience Intern
+- Food & Beverage Culinary Intern
+- Purchasing Intern
+- F&B Intern
+- Rooms Intern
+- Intern – Front Office
+- Food & Beverage Service – Internship
+- Food & Beverage Intern
+- People & Culture – Internship
+- Prácticas Profesionales / Internship Oportunities – SO/ Sotogrande
+- Internship – Reservations
+- Internship – Front Office
+- Intern – Kitchen
+- Internship – Food & Beverage
+- Internship: People & Culture – The Hoxton, Lloyd
+- Internship: Assistant F&B Director – The Hoxton Lloyd
+- Internship: Front Office – The Hoxton, Lloyd
+- Intern – Food & Beverage
+- Internship – Executive Assistant Manager
+- F&B Service Intern
+- People & Culture Intern
+- Marketing Intern
+- Restaurant Operations & Management Intern
+- Groups, Sales and Events Intern
+- Food & Beverage: Operations & Administrative Intern
+- HR & Talent Acquisition Intern
+- Front Office – Internship
+- Food & Beverage Management Intern – Lotti’s
+- Front Office Intern – The Hoxton, Amsterdam
+- F&B Attendant – Internship
+- Guest Service Agent – Internship
+- Guest Experience Internship
+- Front Office Internship
+- Finance Internship
+- People & Culture Internship
+- Reservation Internship
+- F&B Internship
+- Revenue Internship
+- Management Internship
+- Sales&Marketing Internship
+- Front Desk Intern
+- Reservations Department Internship
+- Guest Services & Quality Intern
+- INTERNSHIP – Sales & Community Coordinator
+- Finance Intern
+- Lobby Ambassador Intern
+- Food & Beverage Director | Opening Mama Shelter Mexico City (Italian Cuisene & International Experience needed)
+- Internship Application (f/m/x)
+- Culinary Intern
+- Intern, Finance and People & Culture (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from January 2027 for students and candidates from EU
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- SAINT LAURENT Junior Compensation & Benefits Analyst Internship

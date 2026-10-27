@@ -1946,3 +1946,16 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - SAINT LAURENT Junior Compensation & Benefits Analyst Internship
+
+## 2026-10-27 18:36 UTC
+
+**Standard International** — https://www.standardhotels.com/careers
+- Finance Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - RTW Design Intern - November 2026 (F/M)
+- BALENCIAGA - Sales Merchandising LG Intern - Janvier 2027 (F/M)
+- BALENCIAGA - Content & Copywriting Intern - March 2027 (F/M)
+
+**The Standard Hotels** — https://www.standardhotels.com/careers
+- Finance Intern

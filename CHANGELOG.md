@@ -1959,3 +1959,9 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **The Standard Hotels** — https://www.standardhotels.com/careers
 - Finance Intern
+
+## 2026-10-28 18:43 UTC
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- SAINT LAURENT Human Resources Intern
+- BOTTEGA VENETA Supply Chain and Logistics Non-Merchandise Intern

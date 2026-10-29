@@ -1965,3 +1965,17 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - SAINT LAURENT Human Resources Intern
 - BOTTEGA VENETA Supply Chain and Logistics Non-Merchandise Intern
+
+## 2026-10-29 18:51 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Finance Intern - Four Seasons Resort Mallorca at Formentor (Season 2027)
+- Learning & Development Intern - Four Seasons Resort Mallorca at Formentor (Season 2027)
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Residences Concierge Intern
+- PRACTICAS - People & Culture/ HR Trainee- Internship. Starting February.
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - Product Trainer Intern - January 2027 (F/M)
+- KERING Group Internal Audit Manager (fixed term)

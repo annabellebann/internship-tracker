@@ -1979,3 +1979,18 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - BALENCIAGA - Product Trainer Intern - January 2027 (F/M)
 - KERING Group Internal Audit Manager (fixed term)
+
+## 2026-10-30 18:27 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Guest Experience Intern (Summer 2027)
+- Guest Services Intern (Summer 2027)
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern, Concierge (December 2026 Intake)
+
+**Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
+- Internal Communications Manager, Tory Burch Foundation
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BOUCHERON – Sustainability Projects Coordinator Intern F/H/X

@@ -1994,3 +1994,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - BOUCHERON – Sustainability Projects Coordinator Intern F/H/X
+
+## 2026-11-01 18:19 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Residences Concierge Intern - Omani National

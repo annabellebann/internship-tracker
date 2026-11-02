@@ -1999,3 +1999,58 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Mandarin Oriental** — https://careers.mandarinoriental.com/
 - Residences Concierge Intern - Omani National
+
+## 2026-11-02 22:09 UTC
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Estágio Relações Internacionais
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Internship
+- Marketing Internship
+- Food & Beverage – Internship
+- Rooms – Internship
+- Guest Experience Intern
+- Front Office Intern
+- Food & Beverage Culinary Intern
+- Purchasing Intern
+- F&B Intern
+- Rooms Intern
+- Intern – Front Office
+- Food & Beverage Intern
+- Prácticas Profesionales / Internship Oportunities – SO/ Sotogrande
+- Internship – Reservations
+- Internship – Front Office
+- Internship – Food & Beverage
+- Internship: People & Culture – The Hoxton, Lloyd
+- Internship: Assistant F&B Director – The Hoxton Lloyd
+- Internship: Front Office – The Hoxton, Lloyd
+- Internship – Executive Assistant Manager
+- Marketing Intern
+- Restaurant Operations & Management Intern
+- Groups, Sales and Events Intern
+- Food & Beverage: Operations & Administrative Intern
+- HR & Talent Acquisition Intern
+- Food & Beverage Management Intern – Lotti’s
+- Front Office Intern – The Hoxton, Amsterdam
+- F&B Attendant – Internship
+- Guest Service Agent – Internship
+- Guest Experience Internship
+- Front Office Internship
+- Finance Internship
+- People & Culture Internship
+- Reservation Internship
+- F&B Internship
+- Revenue Internship
+- Management Internship
+- Sales&Marketing Internship
+- Front Desk Intern
+- Reservations Department Internship
+- Guest Services & Quality Intern
+- INTERNSHIP – Sales & Community Coordinator
+- Finance Intern
+- Lobby Ambassador Intern
+- Internship Application (f/m/x)
+- Culinary Intern
+- Intern, Finance and People & Culture (F/M/X)
+- INTERNSHIP ❤️ RECEPTION minimum length +4 months from January 2027 for students and candidates from EU

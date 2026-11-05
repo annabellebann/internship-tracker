@@ -2088,3 +2088,11 @@ Every time the daily check finds new "intern"-related text on a company's career
 - CEO Global Presidential Internship Program (Masters, MBA)
 - Internships are offered in the following areas:
 - We are known as a learning organization, with internships and full-time opportunities for globally-minded student leaders
+
+## 2026-11-05 20:32 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- People & Culture Intern
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- Employees showed off their best chili, sampled each other’s creations and voted for their favorite during an internal Community Connections Campaign fundraiser in support of @unitedway. 💛

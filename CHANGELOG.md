@@ -2096,3 +2096,13 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Travelers** — https://careers.travelers.com/emerging-talent/
 - Employees showed off their best chili, sampled each other’s creations and voted for their favorite during an internal Community Connections Campaign fundraiser in support of @unitedway. 💛
+
+## 2026-11-06 19:54 UTC
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Internship
+- Human Resources Intern
+- Finance Intern
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Events Intern

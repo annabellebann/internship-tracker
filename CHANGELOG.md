@@ -2106,3 +2106,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Mandarin Oriental** — https://careers.mandarinoriental.com/
 - Events Intern
+
+## 2026-11-07 18:00 UTC
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BOTTEGA VENETA Jewellery Product Development Intern

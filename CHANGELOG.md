@@ -2159,3 +2159,39 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Lobby Ambassador Intern
 - Internship Application (f/m/x)
 - Culinary Intern
+
+## 2026-11-09 22:56 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Finance Intern - Four Seasons Resort Mallorca at Formentor (Season 2027)
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- PRACTICAS - People & Culture/ HR Trainee- Internship. Starting February.
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Finance Intern – The Hoxton, Amsterdam
+
+**Colin Cowie Lifestyle** — https://www.colincowie.com/careers/internships/
+- INTERNSHIPS (NY, LA, MIA)
+- Event Production Educational Internship:
+- Event Design Educational Internship:
+- Please send your resume and cover letter to internships@colincowie.com.
+- We are currently seeking educational internship candidates in the NYC, LA and Miami metro areas. Limited opportunities available.
+- INTERNSHIPS
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- Internships
+- Choosing an internship at Travelers will allow you to make immediate – and lasting – contributions through meaningful real-world experiences that help people manage risk, recover from losses and secure their future. As an intern, you’ll have the opportunity to:
+- Meet other interns from across the country.
+- Have the opportunity to apply and interview for return internships and full-time positions with Travelers.
+- From internships to leadership development programs to ongoing training, learning and growth are yours for the taking. Where you start at Travelers is just the beginning.
+- Employees showed off their best chili, sampled each other’s creations and voted for their favorite during an internal Community Connections Campaign fundraiser in support of @unitedway. 💛
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BOTTEGA VENETA Architecture Special Projects Intern (Curricular Internship)
+
+**Estee Lauder Companies (Clinique, MAC, Jo Malone, Le Labo)** — https://www.elcompanies.com/en/careers/students/internships
+- The Estée Lauder Companies provides a multitude of internship opportunities for students at various levels of their education.
+- Applications for the 2027 Graduate/MBA Lauder Summer Internship are now open.
+- Applications for the 2027 Lauder Undergraduate Internship Program are now closed.
+- Lauder Summer Internship Program (Masters/MBA)

@@ -2195,3 +2195,25 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Applications for the 2027 Graduate/MBA Lauder Summer Internship are now open.
 - Applications for the 2027 Lauder Undergraduate Internship Program are now closed.
 - Lauder Summer Internship Program (Masters/MBA)
+
+## 2026-11-10 20:16 UTC
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Housekeeping Supervisor Intern - La Residencia, a Belmond Hotel (Mallorca)
+- Receptionist Intern - La Residencia, a Belmond Hotel (Mallorca)
+- F&B Service Intern - La Residencia, a Belmond Hotel (Mallorca)
+- F&B Office Intern - La Residencia, a Belmond Hotel (Mallorca)
+- Executive Intern - La Residencia, a Belmond Hotel (Mallorca)
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern - Service Excellence and Learning & Development ( Omani national )
+
+**Standard International** — https://www.standardhotels.com/careers
+- Reservation Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - E-Business Projects & Operation Intern – March 2027 (F/M)
+- BALENCIAGA - Supply and Distribution Planner RTW Intern - March 2027 (F/M)
+
+**The Standard Hotels** — https://www.standardhotels.com/careers
+- Reservation Intern

@@ -2217,3 +2217,21 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **The Standard Hotels** — https://www.standardhotels.com/careers
 - Reservation Intern
+
+## 2026-11-11 20:04 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Learning & Development Intern - Four Seasons Resort Mallorca at Formentor (Season 2027)
+- Front Desk Intern
+- Digital Marketing & Social Media Intern
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Public Relations Intern - La Residencia, a Belmond Hotel (Mallorca)
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- PRACTICAS - People & Culture/ HR Trainee- Internship. Starting February.
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- SAINT LAURENT Client Engagement Spring Intern
+- SAINT LAURENT Visual Merchandising Spring Intern
+- SAINT LAURENT Public Relations Spring Intern

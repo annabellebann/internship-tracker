@@ -2235,3 +2235,16 @@ Every time the daily check finds new "intern"-related text on a company's career
 - SAINT LAURENT Client Engagement Spring Intern
 - SAINT LAURENT Visual Merchandising Spring Intern
 - SAINT LAURENT Public Relations Spring Intern
+
+## 2026-11-12 20:42 UTC
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Kitchen Intern - Romazzino a Belmond Hotel Costa Smeralda
+- Finance Intern - Romazzino a Belmond Hotel Costa Smeralda
+- Restaurant Intern - Romazzino a Belmond Hotel Costa Smeralda
+- Reservations Intern - Romazzino a Belmond Hotel Costa Smeralda
+- Events Intern - Romazzino a Belmond Hotel Costa Smeralda
+- Front Office Intern - Romazzino a Belmond Hotel Costa Smeralda
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- IT Intern ( Omani national )

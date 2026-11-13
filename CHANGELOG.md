@@ -2248,3 +2248,14 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Mandarin Oriental** — https://careers.mandarinoriental.com/
 - IT Intern ( Omani national )
+
+## 2026-11-13 20:21 UTC
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Guest Relations Intern - Romazzino a Belmond Hotel Costa Smeralda
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Internship Discovery Evening
+
+**Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
+- Orlando, FL - International

@@ -2259,3 +2259,13 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
 - Orlando, FL - International
+
+## 2026-11-15 19:18 UTC
+
+**Travelers** — https://careers.travelers.com/emerging-talent/
+- Internships
+- Choosing an internship at Travelers will allow you to make immediate – and lasting – contributions through meaningful real-world experiences that help people manage risk, recover from losses and secure their future. As an intern, you’ll have the opportunity to:
+- Meet other interns from across the country.
+- Have the opportunity to apply and interview for return internships and full-time positions with Travelers.
+- From internships to leadership development programs to ongoing training, learning and growth are yours for the taking. Where you start at Travelers is just the beginning.
+- Employees showed off their best chili, sampled each other’s creations and voted for their favorite during an internal Community Connections Campaign fundraiser in support of @unitedway. 💛

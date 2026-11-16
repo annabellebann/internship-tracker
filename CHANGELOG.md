@@ -2269,3 +2269,15 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Have the opportunity to apply and interview for return internships and full-time positions with Travelers.
 - From internships to leadership development programs to ongoing training, learning and growth are yours for the taking. Where you start at Travelers is just the beginning.
 - Employees showed off their best chili, sampled each other’s creations and voted for their favorite during an internal Community Connections Campaign fundraiser in support of @unitedway. 💛
+
+## 2026-11-16 22:47 UTC
+
+**Belmond (LVMH)** — https://careers.belmond.com/jobs
+- Finance Intern, Season 2027 - Splendido a Belmond Hotel Portofino
+- Spa Receptionist and Quality Intern - La Residencia, a Belmond Hotel (Mallorca)
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- INTERNSHIP – Assistant F&B Director
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - Client Experience & Events Intern - January 2027 (F/M)

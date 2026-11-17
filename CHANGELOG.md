@@ -2281,3 +2281,11 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - BALENCIAGA - Client Experience & Events Intern - January 2027 (F/M)
+
+## 2026-11-17 21:34 UTC
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- F&B Management intern | The Hoxton Lloyd Amsterdam
+
+**Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
+- Orlando, FL - International

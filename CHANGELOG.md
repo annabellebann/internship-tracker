@@ -2289,3 +2289,9 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Tory Burch** — https://toryburch.wd1.myworkdayjobs.com/en-US/toryburchcareers
 - Orlando, FL - International
+
+## 2026-11-18 21:08 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Marketing Intern (m/f/d)
+- Groups & Events Intern (m/f/d)

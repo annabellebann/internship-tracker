@@ -2295,3 +2295,9 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Mandarin Oriental** — https://careers.mandarinoriental.com/
 - Marketing Intern (m/f/d)
 - Groups & Events Intern (m/f/d)
+
+## 2026-11-19 21:14 UTC
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA Temp Sales Assistant | International Market Place
+- BALENCIAGA - E RETAIL INTERN - December 2026 (F/M)

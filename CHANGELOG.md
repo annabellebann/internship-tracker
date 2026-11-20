@@ -2301,3 +2301,8 @@ Every time the daily check finds new "intern"-related text on a company's career
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - BALENCIAGA Temp Sales Assistant | International Market Place
 - BALENCIAGA - E RETAIL INTERN - December 2026 (F/M)
+
+## 2026-11-20 20:58 UTC
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- SAINT LAURENT Administrative Assistant Intern

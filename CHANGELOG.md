@@ -2314,3 +2314,21 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - KERING Internal Auditor (Fixed Term)
+
+## 2026-11-24 22:58 UTC
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BOTTEGA VENETA Merchandising & Wholesale Intern
+
+**Estee Lauder Companies (Clinique, MAC, Jo Malone, Le Labo)** — https://www.elcompanies.com/en/careers/students/internships
+- Home Careers Students Internships
+- Internships
+- The Estée Lauder Companies provides a multitude of internship opportunities for students at various levels of their education.
+- Applications for the 2027 Graduate/MBA Lauder Summer Internship are now open.
+- Applications for the 2027 Lauder Undergraduate Internship Program are now closed.
+- Internship Opportunities
+- The Estée Lauder Companies provides a multitude of internship opportunities for students at various levels of their education. These include:
+- Lauder Summer Internship Program (Undergrad)
+- Lauder Summer Internship Program (Masters/MBA)
+- Internships are offered in the following areas:
+- We are known as a learning organization, with internships and full-time opportunities for globally-minded student leaders

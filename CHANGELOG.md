@@ -2306,3 +2306,11 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
 - SAINT LAURENT Administrative Assistant Intern
+
+## 2026-11-24 00:38 UTC
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- F&B Operations Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- KERING Internal Auditor (Fixed Term)

@@ -2332,3 +2332,11 @@ Every time the daily check finds new "intern"-related text on a company's career
 - Lauder Summer Internship Program (Masters/MBA)
 - Internships are offered in the following areas:
 - We are known as a learning organization, with internships and full-time opportunities for globally-minded student leaders
+
+## 2026-11-25 22:11 UTC
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Executive Office Intern
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- INTERNSHIP – Finance

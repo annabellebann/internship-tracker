@@ -2340,3 +2340,14 @@ Every time the daily check finds new "intern"-related text on a company's career
 
 **Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
 - INTERNSHIP – Finance
+
+## 2026-11-26 22:10 UTC
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Rooms Operations Intern
+- Food & Beverage Intern
+
+**Kering (Gucci, YSL, Bottega Veneta, Balenciaga)** — https://www.kering.com/en/talent/
+- BALENCIAGA - Global Data Client & Insights: Data & Analytics Intern - January 2027 (F/M)
+- KERING HR Administration Intern (Curricular)
+- BOTTEGA VENETA RTW Purchasing Intern

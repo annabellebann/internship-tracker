@@ -2351,3 +2351,14 @@ Every time the daily check finds new "intern"-related text on a company's career
 - BALENCIAGA - Global Data Client & Insights: Data & Analytics Intern - January 2027 (F/M)
 - KERING HR Administration Intern (Curricular)
 - BOTTEGA VENETA RTW Purchasing Intern
+
+## 2026-11-27 21:52 UTC
+
+**Four Seasons** — https://careers.fourseasons.com/us/en/internships
+- Intern
+
+**Mandarin Oriental** — https://careers.mandarinoriental.com/
+- Intern, Inventory Management
+
+**Ennismore (Hoxton/Gleneagles)** — https://careers.ennismore.com/
+- Rooms Intern
